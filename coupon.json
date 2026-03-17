@@ -1,0 +1,12 @@
+[
+  {
+    "id": "WT50GT25",
+    "type": "flat",
+    "value": "50",
+    "description": "নতুন গ্রাহকদের জন্য ৫০ টাকা ডিসকাউন্ট",
+    "rules": "weight_min=25, user_daily_limit=1, user_monthly_limit=1, user_total_limit=5, blocked_products=1|2|4|5|78|80|81",
+    "Place": "Online Flat 50 TK Discount",
+    "Starting": "",
+    "Ending": ""
+  }
+]
