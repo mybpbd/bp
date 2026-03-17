@@ -53,5 +53,115 @@
     ],
     "description": "",
     "image": "https://iili.io/qK5re0x.jpg"
+  },
+  {
+    "name": "এরফান সুগন্ধি চিনিগুঁড়া চাল 2",
+    "english_name": "Erfan Shugondhi Chinigura Chal",
+    "variants": [
+      {
+        "weight": 25,
+        "price": 25
+      },
+      {
+        "weight": 10,
+        "price": 10
+      },
+      {
+        "weight": 5,
+        "price": 5
+      },
+      {
+        "weight": 50,
+        "price": 5099
+      },
+      {
+        "weight": 1,
+        "price": 1
+      },
+      {
+        "weight": 2,
+        "price": 299999
+      }
+    ],
+    "category": "চিনিগুঁড়া",
+    "subcategory": [
+      "এরফান",
+      "সুগন্ধি",
+      "আতপ"
+    ],
+    "brand": "এরফান",
+    "state": "আতপ চাল",
+    "tags": [
+      "Erfan Sugondhi Chinigura",
+      "Aromatic Chinigura",
+      "সুগন্ধি চিনিগুঁড়া",
+      "আতপ চাল",
+      "atop chal",
+      "polaoer chal",
+      "পোলাওয়ের চাল",
+      "পোলাও চাল",
+      "পোলাও",
+      "এরফান",
+      "এরফান পোলাও চাল",
+      "এরফান আতপ চাল",
+      "Erfan atop chal"
+    ],
+    "description": "",
+    "image": "https://iili.io/qK5re0x.jpg"
+  },
+  {
+    "name": "এরফান সুগন্ধি চিনিগুঁড়া চাল 3",
+    "english_name": "Erfan Shugondhi Chinigura Chal",
+    "variants": [
+      {
+        "weight": 25,
+        "price": 25
+      },
+      {
+        "weight": 10,
+        "price": 10
+      },
+      {
+        "weight": 5,
+        "price": 5
+      },
+      {
+        "weight": 50,
+        "price": 5099
+      },
+      {
+        "weight": 1,
+        "price": 1
+      },
+      {
+        "weight": 2,
+        "price": 299999
+      }
+    ],
+    "category": "চিনিগুঁড়া",
+    "subcategory": [
+      "এরফান",
+      "সুগন্ধি",
+      "আতপ"
+    ],
+    "brand": "এরফান",
+    "state": "আতপ চাল",
+    "tags": [
+      "Erfan Sugondhi Chinigura",
+      "Aromatic Chinigura",
+      "সুগন্ধি চিনিগুঁড়া",
+      "আতপ চাল",
+      "atop chal",
+      "polaoer chal",
+      "পোলাওয়ের চাল",
+      "পোলাও চাল",
+      "পোলাও",
+      "এরফান",
+      "এরফান পোলাও চাল",
+      "এরফান আতপ চাল",
+      "Erfan atop chal"
+    ],
+    "description": "",
+    "image": "https://iili.io/qK5re0x.jpg"
   }
 ]
