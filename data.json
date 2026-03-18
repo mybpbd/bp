@@ -476,20 +476,6 @@
     "Image": "https://iili.io/qhYylM7.jpg"
   },
   {
-    "Name": "দারুচিনি",
-    "English_Name": "Cinnamon",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
-    "Measurement": "Solid",
-    "Price": "57, 114, 285, 570, 1140, 2850",
-    "Category": "মশলা",
-    "Subcategory": "সুপার ফুড",
-    "Brand": "",
-    "State": "",
-    "Tag": "",
-    "Description": "",
-    "Image": "https://iili.io/qhaWvjt.webp"
-  },
-  {
     "Name": "কোকোনাট সুগার",
     "English_Name": "Coconut Sugar",
     "Weight": "200",
@@ -502,6 +488,20 @@
     "Tag": "",
     "Description": "",
     "Image": "https://iili.io/qhcF5aS.jpg"
+  },
+  {
+    "Name": "দারুচিনি",
+    "English_Name": "Cinnamon",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Measurement": "Solid",
+    "Price": "57, 114, 285, 570, 1140, 2850",
+    "Category": "মশলা",
+    "Subcategory": "সুপার ফুড",
+    "Brand": "",
+    "State": "",
+    "Tag": "",
+    "Description": "",
+    "Image": "https://iili.io/qhaWvjt.webp"
   },
   {
     "Name": "কোকোনাট অ্যামিনোস",
