@@ -28,7 +28,7 @@
     "Image": "https://iili.io/qXf60xe.jpg"
   },
   {
-    "Name": "বাকহুইট রাইস",
+    "Name": "বাকহুইট",
     "English_Name": "Buckwheat",
     "Weight": "100,200,500,1000,2000,5000",
     "Measurement": "Solid",
@@ -404,19 +404,5 @@
     "Tag": "",
     "Description": "",
     "Image": "https://iili.io/qhuKV2a.jpg"
-  },
-  {
-    "Name": "বাকহুইট আটা",
-    "English_Name": "",
-    "Weight": "",
-    "Measurement": "Solid",
-    "Price": "",
-    "Category": "",
-    "Subcategory": "সুপার ফুড",
-    "Brand": "",
-    "State": "",
-    "Tag": "",
-    "Description": "",
-    "Image": ""
   }
 ]
