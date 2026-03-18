@@ -324,7 +324,7 @@
   {
     "Name": "চিয়া সিড",
     "English_Name": "Chia Seed",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
