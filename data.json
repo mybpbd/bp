@@ -60,7 +60,7 @@
     "English_Name": "Deshi Duck Eggs",
     "Weight": "1,4,6,12,24,50",
     "Measurement": "Piece",
-    "Price": "",
+    "Price": "0, 80, 120, 240, 480, 1000",
     "Category": "প্রোটিন",
     "Subcategory": "",
     "Brand": "",
