@@ -310,7 +310,7 @@
   {
     "Name": "বেকিং সোডা",
     "English_Name": "Baking Soda",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
