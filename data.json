@@ -534,7 +534,7 @@
   {
     "Name": "ভাজা জিরা",
     "English_Name": "Roasted Cumin",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5001",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -548,7 +548,7 @@
   {
     "Name": "জিরা গুড়া",
     "English_Name": "Cumin Powder",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5002",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -562,7 +562,7 @@
   {
     "Name": "ভাজা জিরা গুড়া",
     "English_Name": "Roasted Cumin Powder",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5003",
     "Measurement": "",
     "Price": "",
     "Category": "",
