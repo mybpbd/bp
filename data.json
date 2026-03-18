@@ -28,6 +28,19 @@
   {
     "Name": "বাকহুইট",
     "English_Name": "Buckwheat",
+    "Weight": "100,200,500,1000,2000,5000",
+    "Price": "80, 160, 400, 800, 1600, 4000",
+    "Category": "শর্করা",
+    "Subcategory": "সুপার ফুড",
+    "Brand": "",
+    "State": "",
+    "Tag": "",
+    "Description": "",
+    "Image": "https://iili.io/qXVPrbe.jpg"
+  },
+  {
+    "Name": "স্টিল কাটস ওটস",
+    "English_Name": "",
     "Weight": "",
     "Price": "",
     "Category": "",
