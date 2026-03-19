@@ -518,20 +518,6 @@
     "Image": "https://iili.io/qhl2eyX.webp"
   },
   {
-    "Name": "শাহী জিরা",
-    "English_Name": "Caraway Seeds",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
-    "Measurement": "Solid",
-    "Price": "",
-    "Category": "মশলা",
-    "Subcategory": "",
-    "Brand": "",
-    "State": "",
-    "Tag": "",
-    "Description": "",
-    "Image": "https://iili.io/qhGQ5Hg.jpg"
-  },
-  {
     "Name": "ভাজা জিরা",
     "English_Name": "Roasted Cumin",
     "Weight": "100, 200, 500, 1000, 2000, 5000",
@@ -544,6 +530,20 @@
     "Tag": "",
     "Description": "",
     "Image": "https://iili.io/qhlnJse.jpg"
+  },
+  {
+    "Name": "শাহী জিরা",
+    "English_Name": "Caraway Seeds",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Measurement": "Solid",
+    "Price": "",
+    "Category": "মশলা",
+    "Subcategory": "",
+    "Brand": "",
+    "State": "",
+    "Tag": "",
+    "Description": "",
+    "Image": "https://iili.io/qhGQ5Hg.jpg"
   },
   {
     "Name": "কাঁচা জিরা গুড়া",
