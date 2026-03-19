@@ -476,6 +476,20 @@
     "Image": "https://iili.io/qhYylM7.jpg"
   },
   {
+    "Name": "কাঁচা জিরা",
+    "English_Name": "Cumin",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Measurement": "Solid",
+    "Price": "60, 121, 304, 609, 1218, 3045",
+    "Category": "মশলা",
+    "Subcategory": "",
+    "Brand": "",
+    "State": "",
+    "Tag": "",
+    "Description": "",
+    "Image": "https://iili.io/qhl2eyX.webp"
+  },
+  {
     "Name": "কোকোনাট সুগার",
     "English_Name": "Coconut Sugar",
     "Weight": "200",
@@ -516,20 +530,6 @@
     "Tag": "",
     "Description": "",
     "Image": "https://iili.io/qhGQ5Hg.jpg"
-  },
-  {
-    "Name": "কাঁচা জিরা",
-    "English_Name": "Cumin",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
-    "Measurement": "Solid",
-    "Price": "60, 121, 304, 609, 1218, 3045",
-    "Category": "মশলা",
-    "Subcategory": "",
-    "Brand": "",
-    "State": "",
-    "Tag": "",
-    "Description": "",
-    "Image": "https://iili.io/qhl2eyX.webp"
   },
   {
     "Name": "ভাজা জিরা",
