@@ -3236,7 +3236,7 @@
   {
     "Name": "তুলসী পাতা",
     "English_Name": "Holy Basil / Tulsi Leaves",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -3250,7 +3250,7 @@
   {
     "Name": "নিম পাতা",
     "English_Name": "Neem Leaves",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -3264,7 +3264,7 @@
   {
     "Name": "থানকুনি পাতা",
     "English_Name": "Indian Pennywort / Centella",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -3278,7 +3278,7 @@
   {
     "Name": "বাসক পাতা",
     "English_Name": "Malabar Nut / Vasaka",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -3292,7 +3292,7 @@
   {
     "Name": "নিশিপিন্দা",
     "English_Name": "Five-Leaved Chaste Tree",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -3306,7 +3306,7 @@
   {
     "Name": "অর্জুন ছাল",
     "English_Name": "Arjuna Bark",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -3320,7 +3320,7 @@
   {
     "Name": "পাথরকুচি পাতা",
     "English_Name": "Kalanchoe / Air Plant",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -3334,7 +3334,7 @@
   {
     "Name": "ঘৃতকুমারী (অ্যালোভেরা)",
     "English_Name": "Aloe Vera",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -3348,7 +3348,7 @@
   {
     "Name": "কালোজিরা",
     "English_Name": "Black Seed / Nigella Sativa",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -3362,7 +3362,7 @@
   {
     "Name": "মেথি পাতা",
     "English_Name": "Fenugreek Leaves",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -3376,7 +3376,7 @@
   {
     "Name": "শিউলি পাতা",
     "English_Name": "Night Jasmine Leaves",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -3390,7 +3390,7 @@
   {
     "Name": "আকন্দ পাতা",
     "English_Name": "Giant Milkweed",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -3404,7 +3404,7 @@
   {
     "Name": "হাতিশুঁড়",
     "English_Name": "Indian Turnsole",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -3418,7 +3418,7 @@
   {
     "Name": "লজ্জাবতী গাছ",
     "English_Name": "Sensitive Plant / Mimosa",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -3432,7 +3432,7 @@
   {
     "Name": "ব্রাহ্মী শাক",
     "English_Name": "Water Hyssop / Brahmi",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -3446,7 +3446,7 @@
   {
     "Name": "অপরাজিতা ফুল",
     "English_Name": "Butterfly Pea",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -3460,7 +3460,7 @@
   {
     "Name": "স্বর্ণলতা",
     "English_Name": "Dodder",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -3474,7 +3474,7 @@
   {
     "Name": "দূর্বা ঘাস",
     "English_Name": "Bermuda Grass",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -3488,7 +3488,7 @@
   {
     "Name": "আপাং",
     "English_Name": "Chaff Flower",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -3502,7 +3502,7 @@
   {
     "Name": "বন ধনে",
     "English_Name": "Wild Coriander",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -3516,7 +3516,7 @@
   {
     "Name": "উলট চন্ডাল",
     "English_Name": "Glory Lily",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -3530,7 +3530,7 @@
   {
     "Name": "অনন্তমূল",
     "English_Name": "Indian Sarsaparilla",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -3544,7 +3544,7 @@
   {
     "Name": "বামুনহাটি",
     "English_Name": "Beetle-Killer",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -3558,7 +3558,7 @@
   {
     "Name": "ডুমুর",
     "English_Name": "Cluster Fig",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -3572,7 +3572,7 @@
   {
     "Name": "পেয়ারা পাতা",
     "English_Name": "Guava Leaves",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -3586,7 +3586,7 @@
   {
     "Name": "সজিনা পাতা",
     "English_Name": "Moringa Leaves",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -3600,7 +3600,7 @@
   {
     "Name": "তেলাকুচা",
     "English_Name": "Ivy Gourd",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -3614,7 +3614,7 @@
   {
     "Name": "কচু শাক",
     "English_Name": "Taro Leaves",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -3628,7 +3628,7 @@
   {
     "Name": "ধুতুরা ফল",
     "English_Name": "Thorn Apple",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -3642,7 +3642,7 @@
   {
     "Name": "তোকমা দানা",
     "English_Name": "Basil Seeds",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -3656,7 +3656,7 @@
   {
     "Name": "ইসবগুলের ভুষি",
     "English_Name": "Psyllium Husk",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -3670,7 +3670,7 @@
   {
     "Name": "বেল (কাঁচা)",
     "English_Name": "Wood Apple (Raw)",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -3684,7 +3684,7 @@
   {
     "Name": "কালমেঘ গুঁড়া",
     "English_Name": "Andrographis Powder",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -3698,7 +3698,7 @@
   {
     "Name": "তেঁতুল পাতা",
     "English_Name": "Tamarind Leaves",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -3712,7 +3712,7 @@
   {
     "Name": "পেঁপে বীজ",
     "English_Name": "Papaya Seeds",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -3726,7 +3726,7 @@
   {
     "Name": "শতমূলী (কাঁচা)",
     "English_Name": "Shatavari Root (Fresh)",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -3740,7 +3740,7 @@
   {
     "Name": "ঘাসফুল",
     "English_Name": "Star Grass",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -3754,7 +3754,7 @@
   {
     "Name": "গন্ধভাদুলি",
     "English_Name": "Skunkvine",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -3768,7 +3768,7 @@
   {
     "Name": "কুলেখাড়া",
     "English_Name": "Hygrophila",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -3782,7 +3782,7 @@
   {
     "Name": "হেলেঞ্চা শাক",
     "English_Name": "Water Cress",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -3796,7 +3796,7 @@
   {
     "Name": "কলমি শাক",
     "English_Name": "Water Spinach",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -3810,7 +3810,7 @@
   {
     "Name": "ব্রাহ্মী গুঁড়া",
     "English_Name": "Brahmi Powder",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -3824,7 +3824,7 @@
   {
     "Name": "পুনর্নবা",
     "English_Name": "Hogweed",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -3838,7 +3838,7 @@
   {
     "Name": "আকন্দ মূল",
     "English_Name": "Milkweed Root",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -3852,7 +3852,7 @@
   {
     "Name": "বড় এলাচ",
     "English_Name": "Black Cardamom",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -3866,7 +3866,7 @@
   {
     "Name": "বচ",
     "English_Name": "Sweet Flag",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -3880,7 +3880,7 @@
   {
     "Name": "আম পাতা",
     "English_Name": "Mango Leaves",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -3894,7 +3894,7 @@
   {
     "Name": "জবা ফুল (লাল)",
     "English_Name": "Hibiscus Flower (Red)",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -3908,7 +3908,7 @@
   {
     "Name": "আমলকী তেল",
     "English_Name": "Amla Oil",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -3922,7 +3922,7 @@
   {
     "Name": "রসুন তেল",
     "English_Name": "Garlic Oil",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -3936,7 +3936,7 @@
   {
     "Name": "থানকুনি গুঁড়া",
     "English_Name": "Centella Powder",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -3950,7 +3950,7 @@
   {
     "Name": "চিরতা গুঁড়া",
     "English_Name": "Swertia Chirata Powder",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -3964,7 +3964,7 @@
   {
     "Name": "বেল শুঁট (শুকনো বেল)",
     "English_Name": "Dried Wood Apple Pulp",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -3978,7 +3978,7 @@
   {
     "Name": "ডালিম খোসা",
     "English_Name": "Pomegranate Peel",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -3992,7 +3992,7 @@
   {
     "Name": "কাঞ্চন ফুল",
     "English_Name": "Mountain Ebony Flower",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -4006,7 +4006,7 @@
   {
     "Name": "কামরাঙা পাতা",
     "English_Name": "Star Fruit Leaves",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -4020,7 +4020,7 @@
   {
     "Name": "কাঁঠাল বিচি (ওষুধি কাজে)",
     "English_Name": "Jackfruit Seeds",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -4034,7 +4034,7 @@
   {
     "Name": "বড় মেথি",
     "English_Name": "Large Fenugreek",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -4048,7 +4048,7 @@
   {
     "Name": "গোল মরিচ গুঁড়া",
     "English_Name": "Black Pepper Powder",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -4062,7 +4062,7 @@
   {
     "Name": "বন তুলসী",
     "English_Name": "Wild Basil",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -4076,7 +4076,7 @@
   {
     "Name": "কুঁচ বীজ",
     "English_Name": "Rosary Pea",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -4090,7 +4090,7 @@
   {
     "Name": "রক্ত চন্দন",
     "English_Name": "Red Sandalwood",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -4104,7 +4104,7 @@
   {
     "Name": "শ্বেত চন্দন",
     "English_Name": "White Sandalwood",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -4118,7 +4118,7 @@
   {
     "Name": "শ্বেত আকন্দ",
     "English_Name": "White Milkweed",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -4132,7 +4132,7 @@
   {
     "Name": "ভৃঙ্গরাজ পাতা",
     "English_Name": "False Daisy / Bhringraj",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -4146,7 +4146,7 @@
   {
     "Name": "ভৃঙ্গরাজ গুঁড়া",
     "English_Name": "Bhringraj Powder",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -4160,7 +4160,7 @@
   {
     "Name": "মেহেদি পাতা",
     "English_Name": "Henna Leaves",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -4174,7 +4174,7 @@
   {
     "Name": "মেহেদি গুঁড়া",
     "English_Name": "Henna Powder",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -4188,7 +4188,7 @@
   {
     "Name": "ধুনট পাতা",
     "English_Name": "Glory Bower",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -4202,7 +4202,7 @@
   {
     "Name": "বন বেগুন",
     "English_Name": "Wild Eggplant",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -4216,7 +4216,7 @@
   {
     "Name": "হাতিশুঁড় মূল",
     "English_Name": "Indian Turnsole Root",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -4230,7 +4230,7 @@
   {
     "Name": "আমড়া ছাল",
     "English_Name": "Hog Plum Bark",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -4244,7 +4244,7 @@
   {
     "Name": "বন লবঙ্গ",
     "English_Name": "Water Primrose",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -4258,7 +4258,7 @@
   {
     "Name": "ছোট এলাচ",
     "English_Name": "Green Cardamom",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -4272,7 +4272,7 @@
   {
     "Name": "তিল (কালো)",
     "English_Name": "Black Sesame Seeds",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -4286,7 +4286,7 @@
   {
     "Name": "তিল (সাদা)",
     "English_Name": "White Sesame Seeds",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -4300,7 +4300,7 @@
   {
     "Name": "নিম ফল",
     "English_Name": "Neem Fruit",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -4314,7 +4314,7 @@
   {
     "Name": "নিম তেল",
     "English_Name": "Neem Oil",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -4328,7 +4328,7 @@
   {
     "Name": "করঞ্জা ফল",
     "English_Name": "Indian Beech",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -4342,7 +4342,7 @@
   {
     "Name": "করঞ্জা তেল",
     "English_Name": "Karanja Oil",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -4356,7 +4356,7 @@
   {
     "Name": "জটামাংসী",
     "English_Name": "Spikenard",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -4370,7 +4370,7 @@
   {
     "Name": "নাগেশ্বর ফুল",
     "English_Name": "Ironwood Flower",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -4384,7 +4384,7 @@
   {
     "Name": "লতা কস্তুরী",
     "English_Name": "Musk Mallow",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -4398,7 +4398,7 @@
   {
     "Name": "বন পুঁই",
     "English_Name": "Wild Malabar Spinach",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -4412,7 +4412,7 @@
   {
     "Name": "ওলট কম্বল",
     "English_Name": "Devil's Cotton",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -4426,7 +4426,7 @@
   {
     "Name": "ওলট কম্বল গুঁড়া",
     "English_Name": "Devil's Cotton Powder",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -4440,7 +4440,7 @@
   {
     "Name": "হাড়জোড়া গাছ",
     "English_Name": "Adamant Creeper",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -4454,7 +4454,7 @@
   {
     "Name": "ছাতিম ছাল",
     "English_Name": "Blackboard Tree Bark",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -4468,7 +4468,7 @@
   {
     "Name": "বকুল ফুল (শুকনো)",
     "English_Name": "Dried Spanish Cherry Flower",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -4482,7 +4482,7 @@
   {
     "Name": "বকুল ছাল",
     "English_Name": "Spanish Cherry Bark",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -4496,7 +4496,7 @@
   {
     "Name": "তেঁতুল গুদ",
     "English_Name": "Tamarind Pulp",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -4510,7 +4510,7 @@
   {
     "Name": "কচি ডাব",
     "English_Name": "Tender Coconut",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -4524,7 +4524,7 @@
   {
     "Name": "তাল শাঁস",
     "English_Name": "Ice Apple",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -4538,7 +4538,7 @@
   {
     "Name": "তেতো করলা (শুকনো)",
     "English_Name": "Dried Bitter Gourd",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -4552,7 +4552,7 @@
   {
     "Name": "করলা বীজ",
     "English_Name": "Bitter Gourd Seeds",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -4566,7 +4566,7 @@
   {
     "Name": "বন ধুনধুল",
     "English_Name": "Wild Sponge Gourd",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -4580,7 +4580,7 @@
   {
     "Name": "জষ্টিমধু কাঠি",
     "English_Name": "Liquorice Sticks",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -4594,7 +4594,7 @@
   {
     "Name": "বাবলা আঠা",
     "English_Name": "Acacia Gum",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -4608,7 +4608,7 @@
   {
     "Name": "বাবলা পাতা",
     "English_Name": "Acacia Leaves",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -4622,7 +4622,7 @@
   {
     "Name": "আকন্দ কষ",
     "English_Name": "Milkweed Latex",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -4636,7 +4636,7 @@
   {
     "Name": "কেশরাজ পাতা",
     "English_Name": "Eclipta Alba / False Daisy",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -4650,7 +4650,7 @@
   {
     "Name": "কেশরাজ গুঁড়া",
     "English_Name": "Eclipta Powder",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -4664,7 +4664,7 @@
   {
     "Name": "মানকচু মূল",
     "English_Name": "Giant Taro Root",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -4678,7 +4678,7 @@
   {
     "Name": "বিষকাটালী পাতা",
     "English_Name": "Smartweed",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -4692,7 +4692,7 @@
   {
     "Name": "বন আদা",
     "English_Name": "Wild Ginger",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -4706,7 +4706,7 @@
   {
     "Name": "কাঁচা হলুদ (শুকনো)",
     "English_Name": "Dried Turmeric (Raw)",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -4720,7 +4720,7 @@
   {
     "Name": "কুচি দানা (কুর্চি)",
     "English_Name": "Conessi Seeds",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -4734,7 +4734,7 @@
   {
     "Name": "কুর্চি ছাল",
     "English_Name": "Tellicherry Bark",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -4748,7 +4748,7 @@
   {
     "Name": "ধনিয়া (আস্ত দেশি)",
     "English_Name": "Coriander Seeds (Desi)",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -4762,7 +4762,7 @@
   {
     "Name": "ধনিয়া গুঁড়া",
     "English_Name": "Coriander Powder",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -4776,7 +4776,7 @@
   {
     "Name": "বন মরিচ",
     "English_Name": "Wild Chili",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -4790,7 +4790,7 @@
   {
     "Name": "শ্বেত পুনর্নবা",
     "English_Name": "White Hogweed",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -4804,7 +4804,7 @@
   {
     "Name": "রক্ত পুনর্নবা",
     "English_Name": "Red Hogweed",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -4818,7 +4818,7 @@
   {
     "Name": "শিমুল তুলা (বীজসহ)",
     "English_Name": "Silk Cotton (with Seeds)",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -4832,7 +4832,7 @@
   {
     "Name": "শিমুল আঠা (মোচরস)",
     "English_Name": "Silk Cotton Tree Gum",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -4846,7 +4846,7 @@
   {
     "Name": "গাব ফল (কাঁচা)",
     "English_Name": "Velvet Apple (Raw)",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -4860,7 +4860,7 @@
   {
     "Name": "গাব আঠা",
     "English_Name": "Gab Fruit Resin",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -4874,7 +4874,7 @@
   {
     "Name": "রক্ত করবী",
     "English_Name": "Red Oleander",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -4888,7 +4888,7 @@
   {
     "Name": "শ্বেত করবী",
     "English_Name": "White Oleander",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -4902,7 +4902,7 @@
   {
     "Name": "কদম ছাল",
     "English_Name": "Burflower Bark",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -4916,7 +4916,7 @@
   {
     "Name": "কাঁঠাল পাতা (কচি)",
     "English_Name": "Jackfruit Leaves (Tender)",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -4930,7 +4930,7 @@
   {
     "Name": "কচুরিপানা ফুল",
     "English_Name": "Water Hyacinth Flower",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -4944,7 +4944,7 @@
   {
     "Name": "বন ওল",
     "English_Name": "Wild Yam",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -4958,7 +4958,7 @@
   {
     "Name": "হাতিশুঁড় পাতা",
     "English_Name": "Indian Turnsole Leaves",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -4972,7 +4972,7 @@
   {
     "Name": "গিমা শাক",
     "English_Name": "Bitter Cumin",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -4986,7 +4986,7 @@
   {
     "Name": "হেলেঞ্চা গুঁড়া",
     "English_Name": "Enhydra Fluctuans Powder",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -5000,7 +5000,7 @@
   {
     "Name": "সজিনা ছাল",
     "English_Name": "Moringa Bark",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -5014,7 +5014,7 @@
   {
     "Name": "সজিনা আঠা",
     "English_Name": "Moringa Gum",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -5028,7 +5028,7 @@
   {
     "Name": "জাম বীজ গুঁড়া",
     "English_Name": "Jamun Seed Powder",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -5042,7 +5042,7 @@
   {
     "Name": "জাম পাতা",
     "English_Name": "Jamun Leaves",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -5056,7 +5056,7 @@
   {
     "Name": "কচি আম পাতা",
     "English_Name": "Tender Mango Leaves",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -5070,7 +5070,7 @@
   {
     "Name": "আম আটিঁ (বীজ)",
     "English_Name": "Mango Seed Kernel",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -5084,7 +5084,7 @@
   {
     "Name": "শসা বীজ",
     "English_Name": "Cucumber Seeds",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -5098,7 +5098,7 @@
   {
     "Name": "চালকুমড়া বীজ",
     "English_Name": "Wax Gourd Seeds",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -5112,7 +5112,7 @@
   {
     "Name": "চিচিঙ্গা বীজ",
     "English_Name": "Snake Gourd Seeds",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -5126,7 +5126,7 @@
   {
     "Name": "কচি ডালিম ফল",
     "English_Name": "Baby Pomegranate",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -5140,7 +5140,7 @@
   {
     "Name": "ডালিম ফুল",
     "English_Name": "Pomegranate Flower",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -5154,7 +5154,7 @@
   {
     "Name": "বরই পাতা",
     "English_Name": "Jujube Leaves",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -5168,7 +5168,7 @@
   {
     "Name": "বরই ছাল",
     "English_Name": "Jujube Bark",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -5182,7 +5182,7 @@
   {
     "Name": "শেওড়া পাতা",
     "English_Name": "Sandpaper Tree Leaves",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -5196,7 +5196,7 @@
   {
     "Name": "শেওড়া ছাল",
     "English_Name": "Sandpaper Tree Bark",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -5210,7 +5210,7 @@
   {
     "Name": "বট ফল",
     "English_Name": "Banyan Fruit",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -5224,7 +5224,7 @@
   {
     "Name": "বট ঝুরি",
     "English_Name": "Banyan Aerial Roots",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -5238,7 +5238,7 @@
   {
     "Name": "অশ্বত্থ পাতা",
     "English_Name": "Peepal Leaves",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -5252,7 +5252,7 @@
   {
     "Name": "অশ্বত্থ ছাল",
     "English_Name": "Peepal Bark",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -5266,7 +5266,7 @@
   {
     "Name": "হরিতকী গুঁড়া",
     "English_Name": "Haritaki Powder",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -5280,7 +5280,7 @@
   {
     "Name": "বহেরা গুঁড়া",
     "English_Name": "Bahera Powder",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -5294,7 +5294,7 @@
   {
     "Name": "আমলকী গুঁড়া",
     "English_Name": "Amla Powder",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -5308,7 +5308,7 @@
   {
     "Name": "শটি (কাঁচা)",
     "English_Name": "Zedoary Root",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -5322,7 +5322,7 @@
   {
     "Name": "শটি গুঁড়া",
     "English_Name": "Zedoary Powder",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -5336,7 +5336,7 @@
   {
     "Name": "স্বর্ণলতা (আস্ত)",
     "English_Name": "Dodder / Cuscuta (Whole)",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -5350,7 +5350,7 @@
   {
     "Name": "স্বর্ণলতা গুঁড়া",
     "English_Name": "Dodder Powder",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -5364,7 +5364,7 @@
   {
     "Name": "আপাং মূল",
     "English_Name": "Chaff Flower Root",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -5378,7 +5378,7 @@
   {
     "Name": "আপাং পাতা",
     "English_Name": "Chaff Flower Leaves",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -5392,7 +5392,7 @@
   {
     "Name": "বন ধনে পাতা",
     "English_Name": "Eryngium / Wild Coriander Leaves",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -5406,7 +5406,7 @@
   {
     "Name": "বন ধনে বীজ",
     "English_Name": "Wild Coriander Seeds",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -5420,7 +5420,7 @@
   {
     "Name": "উলট চন্ডাল মূল",
     "English_Name": "Glory Lily Root",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -5434,7 +5434,7 @@
   {
     "Name": "অনন্তমূল গুঁড়া",
     "English_Name": "Indian Sarsaparilla Powder",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -5448,7 +5448,7 @@
   {
     "Name": "বামুনহাটি গুঁড়া",
     "English_Name": "Beetle-Killer Powder",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -5462,7 +5462,7 @@
   {
     "Name": "যজ্ঞ ডুমুর ছাল",
     "English_Name": "Cluster Fig Bark",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -5476,7 +5476,7 @@
   {
     "Name": "যজ্ঞ ডুমুর ফল",
     "English_Name": "Cluster Fig Fruit",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -5490,7 +5490,7 @@
   {
     "Name": "পেয়ারা কচি পাতা",
     "English_Name": "Tender Guava Leaves",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -5504,7 +5504,7 @@
   {
     "Name": "পেয়ারা ছাল",
     "English_Name": "Guava Bark",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -5518,7 +5518,7 @@
   {
     "Name": "সজিনা ফুল",
     "English_Name": "Moringa Flower",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -5532,7 +5532,7 @@
   {
     "Name": "তেলাকুচা মূল",
     "English_Name": "Ivy Gourd Root",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -5546,7 +5546,7 @@
   {
     "Name": "তেলাকুচা ফল",
     "English_Name": "Ivy Gourd Fruit",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -5560,7 +5560,7 @@
   {
     "Name": "ওলট কম্বল ডাঁটা",
     "English_Name": "Devil's Cotton Stem",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -5574,7 +5574,7 @@
   {
     "Name": "তোকমা দানা (লাল)",
     "English_Name": "Basil Seeds (Red)",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -5588,7 +5588,7 @@
   {
     "Name": "ইসবগুল দানা (আস্ত)",
     "English_Name": "Whole Psyllium Seeds",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -5602,7 +5602,7 @@
   {
     "Name": "শুকনো বেলের গুঁড়া",
     "English_Name": "Bael Fruit Powder",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -5616,7 +5616,7 @@
   {
     "Name": "তেঁতুল ছাল",
     "English_Name": "Tamarind Bark",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -5630,7 +5630,7 @@
   {
     "Name": "পেঁপে আঠা",
     "English_Name": "Papaya Latex",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -5644,7 +5644,7 @@
   {
     "Name": "ঘাসফুল মূল",
     "English_Name": "Star Grass Root",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -5658,7 +5658,7 @@
   {
     "Name": "গন্ধভাদুলি গুঁড়া",
     "English_Name": "Skunkvine Powder",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -5672,7 +5672,7 @@
   {
     "Name": "কুলেখাড়া বীজ",
     "English_Name": "Hygrophila Seeds",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -5686,7 +5686,7 @@
   {
     "Name": "কলমি লতা",
     "English_Name": "Water Spinach Vine",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -5700,7 +5700,7 @@
   {
     "Name": "বিষকাটালী মূল",
     "English_Name": "Smartweed Root",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -5714,7 +5714,7 @@
   {
     "Name": "রক্ত করবী মূল",
     "English_Name": "Red Oleander Root",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -5728,7 +5728,7 @@
   {
     "Name": "সাদা জবা ফুল",
     "English_Name": "White Hibiscus Flower",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -5742,7 +5742,7 @@
   {
     "Name": "জবা পাতা",
     "English_Name": "Hibiscus Leaves",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -5756,7 +5756,7 @@
   {
     "Name": "শিউলি বীজ",
     "English_Name": "Night Jasmine Seeds",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -5770,7 +5770,7 @@
   {
     "Name": "শিউলি ছাল",
     "English_Name": "Night Jasmine Bark",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -5784,7 +5784,7 @@
   {
     "Name": "মেহেদি বীজ",
     "English_Name": "Henna Seeds",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -5798,7 +5798,7 @@
   {
     "Name": "নিশিপিন্দা তেল",
     "English_Name": "Vitex Negundo Oil",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -5812,7 +5812,7 @@
   {
     "Name": "নিশিপিন্দা পাতা",
     "English_Name": "Vitex Negundo Leaves",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -5826,7 +5826,7 @@
   {
     "Name": "ধুতুরা পাতা",
     "English_Name": "Datura Leaves",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -5840,7 +5840,7 @@
   {
     "Name": "ধুতুরা বীজ",
     "English_Name": "Datura Seeds",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -5854,7 +5854,7 @@
   {
     "Name": "লতা কস্তুরী বীজ",
     "English_Name": "Musk Mallow Seeds",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -5868,7 +5868,7 @@
   {
     "Name": "কুঁচ পাতা",
     "English_Name": "Rosary Pea Leaves",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -5882,7 +5882,7 @@
   {
     "Name": "হাড়জোড়া গুঁড়া",
     "English_Name": "Adamant Creeper Powder",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -5896,7 +5896,7 @@
   {
     "Name": "ছাতিম পাতা",
     "English_Name": "Blackboard Tree Leaves",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -5910,7 +5910,7 @@
   {
     "Name": "বকুল ফল (কাঁচা)",
     "English_Name": "Spanish Cherry Fruit (Raw)",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -5924,7 +5924,7 @@
   {
     "Name": "বাবলা ছাল",
     "English_Name": "Acacia Bark",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -5938,7 +5938,7 @@
   {
     "Name": "বাবলা ফল",
     "English_Name": "Acacia Pods",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -5952,7 +5952,7 @@
   {
     "Name": "করঞ্জা পাতা",
     "English_Name": "Indian Beech Leaves",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -5966,7 +5966,7 @@
   {
     "Name": "শটি মূল (শুকনো)",
     "English_Name": "Dried Zedoary Root",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -5980,7 +5980,7 @@
   {
     "Name": "কেশরাজ মূল",
     "English_Name": "Eclipta Root",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -5994,7 +5994,7 @@
   {
     "Name": "মানকচু পাতা",
     "English_Name": "Giant Taro Leaves",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -6008,7 +6008,7 @@
   {
     "Name": "বন আদা গুঁড়া",
     "English_Name": "Wild Ginger Powder",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -6022,7 +6022,7 @@
   {
     "Name": "কুর্চি গুঁড়া",
     "English_Name": "Conessi Bark Powder",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
