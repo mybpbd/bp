@@ -1080,7 +1080,7 @@
   {
     "Name": "খেসারি ডাল",
     "English_Name": "Grass Pea",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5001",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -1094,7 +1094,7 @@
   {
     "Name": "মুগ ডাল",
     "English_Name": "Mung Bean",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5002",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -1108,7 +1108,7 @@
   {
     "Name": "সাদা তিল",
     "English_Name": "White Sesame Seeds",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5003",
     "Measurement": "",
     "Price": "",
     "Category": "",
