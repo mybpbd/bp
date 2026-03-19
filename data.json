@@ -1052,7 +1052,7 @@
   {
     "Name": "মসুর ডাল",
     "English_Name": "Red Lentils",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
