@@ -1066,7 +1066,7 @@
   {
     "Name": "অ্যাঙ্কর ডাল",
     "English_Name": "Yellow Split Peas",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
