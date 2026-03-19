@@ -6526,9 +6526,9 @@
   {
     "Name": "হরিতকী শুকনা (টুকরো)",
     "English_Name": "Dried Haritaki Pieces",
-    "Weight": "SL",
-    "Measurement": "Bangla Name",
-    "Price": "English Name",
+    "Weight": "",
+    "Measurement": "",
+    "Price": "",
     "Category": "",
     "Subcategory": "",
     "Brand": "",
@@ -6540,7 +6540,7 @@
   {
     "Name": "বহেরা শুকনা (টুকরো)",
     "English_Name": "Dried Bahera Pieces",
-    "Weight": "651",
+    "Weight": "",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -6554,7 +6554,7 @@
   {
     "Name": "শটি গুঁড়া (সাদা)",
     "English_Name": "White Zedoary Powder",
-    "Weight": "652",
+    "Weight": "",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -6568,7 +6568,7 @@
   {
     "Name": "শটি গুঁড়া (হলুদ)",
     "English_Name": "Yellow Zedoary Powder",
-    "Weight": "653",
+    "Weight": "",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -6582,7 +6582,7 @@
   {
     "Name": "বন ধনিয়া গুঁড়া",
     "English_Name": "Wild Coriander Powder",
-    "Weight": "654",
+    "Weight": "",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -6596,7 +6596,7 @@
   {
     "Name": "আকন্দ মূলের ছাল",
     "English_Name": "Milkweed Root Bark",
-    "Weight": "655",
+    "Weight": "",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -6610,7 +6610,7 @@
   {
     "Name": "ধুতুরা মূল",
     "English_Name": "Datura Root",
-    "Weight": "656",
+    "Weight": "",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -6624,7 +6624,7 @@
   {
     "Name": "কাঞ্চন ছাল",
     "English_Name": "Mountain Ebony Bark",
-    "Weight": "657",
+    "Weight": "",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -6638,7 +6638,7 @@
   {
     "Name": "কাঞ্চন পাতা",
     "English_Name": "Mountain Ebony Leaves",
-    "Weight": "658",
+    "Weight": "",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -6652,7 +6652,7 @@
   {
     "Name": "কামরাঙা ফুল",
     "English_Name": "Star Fruit Flower",
-    "Weight": "659",
+    "Weight": "",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -6666,7 +6666,7 @@
   {
     "Name": "কামরাঙা ছাল",
     "English_Name": "Star Fruit Bark",
-    "Weight": "660",
+    "Weight": "",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -6680,7 +6680,7 @@
   {
     "Name": "কচি পেয়ারা ফল (শুকনো)",
     "English_Name": "Dried Baby Guava",
-    "Weight": "661",
+    "Weight": "",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -6694,7 +6694,7 @@
   {
     "Name": "বন তুলসী বীজ",
     "English_Name": "Wild Basil Seeds",
-    "Weight": "662",
+    "Weight": "",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -6708,7 +6708,7 @@
   {
     "Name": "বন তুলসী মূল",
     "English_Name": "Wild Basil Root",
-    "Weight": "663",
+    "Weight": "",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -6722,7 +6722,7 @@
   {
     "Name": "শ্বেত চন্দন কাষ্ঠ",
     "English_Name": "White Sandalwood Log",
-    "Weight": "664",
+    "Weight": "",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -6736,7 +6736,7 @@
   {
     "Name": "রক্ত চন্দন কাষ্ঠ",
     "English_Name": "Red Sandalwood Log",
-    "Weight": "665",
+    "Weight": "",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -6750,7 +6750,7 @@
   {
     "Name": "ভৃঙ্গরাজ মূল",
     "English_Name": "False Daisy Root",
-    "Weight": "666",
+    "Weight": "",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -6764,7 +6764,7 @@
   {
     "Name": "ভৃঙ্গরাজ ফুল",
     "English_Name": "False Daisy Flower",
-    "Weight": "667",
+    "Weight": "",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -6778,7 +6778,7 @@
   {
     "Name": "মেহেদি মূল",
     "English_Name": "Henna Root",
-    "Weight": "668",
+    "Weight": "",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -6792,7 +6792,7 @@
   {
     "Name": "ধুনট মূল",
     "English_Name": "Glory Bower Root",
-    "Weight": "669",
+    "Weight": "",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -6806,7 +6806,7 @@
   {
     "Name": "ধুনট ফুল",
     "English_Name": "Glory Bower Flower",
-    "Weight": "670",
+    "Weight": "",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -6820,7 +6820,7 @@
   {
     "Name": "বন বেগুন মূল",
     "English_Name": "Wild Eggplant Root",
-    "Weight": "671",
+    "Weight": "",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -6834,7 +6834,7 @@
   {
     "Name": "বন বেগুন পাতা",
     "English_Name": "Wild Eggplant Leaves",
-    "Weight": "672",
+    "Weight": "",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -6848,7 +6848,7 @@
   {
     "Name": "আমড়া বীজ",
     "English_Name": "Hog Plum Seeds",
-    "Weight": "673",
+    "Weight": "",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -6862,7 +6862,7 @@
   {
     "Name": "বন লবঙ্গ লতা",
     "English_Name": "Water Primrose Vine",
-    "Weight": "674",
+    "Weight": "",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -6876,7 +6876,7 @@
   {
     "Name": "বন লবঙ্গ মূল",
     "English_Name": "Water Primrose Root",
-    "Weight": "675",
+    "Weight": "",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -6890,7 +6890,7 @@
   {
     "Name": "তিল পাতা",
     "English_Name": "Sesame Leaves",
-    "Weight": "676",
+    "Weight": "",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -6904,7 +6904,7 @@
   {
     "Name": "নিম ছাল (শুকনো)",
     "English_Name": "Dried Neem Bark",
-    "Weight": "677",
+    "Weight": "",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -6918,7 +6918,7 @@
   {
     "Name": "করঞ্জা ছাল",
     "English_Name": "Indian Beech Bark",
-    "Weight": "678",
+    "Weight": "",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -6932,7 +6932,7 @@
   {
     "Name": "জটামাংসী আস্ত",
     "English_Name": "Whole Spikenard",
-    "Weight": "679",
+    "Weight": "",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -6946,7 +6946,7 @@
   {
     "Name": "নাগেশ্বর পাতা",
     "English_Name": "Ironwood Leaves",
-    "Weight": "680",
+    "Weight": "",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -6960,7 +6960,7 @@
   {
     "Name": "লতা কস্তুরী ফল",
     "English_Name": "Musk Mallow Fruit",
-    "Weight": "681",
+    "Weight": "",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -6974,7 +6974,7 @@
   {
     "Name": "বন পুঁই বীজ",
     "English_Name": "Wild Malabar Spinach Seeds",
-    "Weight": "682",
+    "Weight": "",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -6988,7 +6988,7 @@
   {
     "Name": "বন পুঁই পাতা",
     "English_Name": "Wild Malabar Spinach Leaves",
-    "Weight": "683",
+    "Weight": "",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -7002,7 +7002,7 @@
   {
     "Name": "ওলট কম্বল মূল",
     "English_Name": "Devil's Cotton Root",
-    "Weight": "684",
+    "Weight": "",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -7016,7 +7016,7 @@
   {
     "Name": "হাড়জোড়া পাতা",
     "English_Name": "Adamant Creeper Leaves",
-    "Weight": "685",
+    "Weight": "",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -7030,7 +7030,7 @@
   {
     "Name": "ছাতিম ফল",
     "English_Name": "Blackboard Tree Fruit",
-    "Weight": "686",
+    "Weight": "",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -7044,7 +7044,7 @@
   {
     "Name": "বকুল বীজ",
     "English_Name": "Spanish Cherry Seeds",
-    "Weight": "687",
+    "Weight": "",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -7058,7 +7058,7 @@
   {
     "Name": "বাবলা মূল",
     "English_Name": "Acacia Root",
-    "Weight": "688",
+    "Weight": "",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -7072,7 +7072,7 @@
   {
     "Name": "শরিফা পাতা",
     "English_Name": "Custard Apple Leaves",
-    "Weight": "689",
+    "Weight": "",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -7086,7 +7086,7 @@
   {
     "Name": "শরিফা ছাল",
     "English_Name": "Custard Apple Bark",
-    "Weight": "690",
+    "Weight": "",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -7100,7 +7100,7 @@
   {
     "Name": "বেল পাতা (শুকনো)",
     "English_Name": "Dried Bael Leaves",
-    "Weight": "691",
+    "Weight": "",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -7114,7 +7114,7 @@
   {
     "Name": "বেল মূল",
     "English_Name": "Bael Root",
-    "Weight": "692",
+    "Weight": "",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -7128,7 +7128,7 @@
   {
     "Name": "কদম ফল (শুকনো)",
     "English_Name": "Dried Burflower Fruit",
-    "Weight": "693",
+    "Weight": "",
     "Measurement": "",
     "Price": "",
     "Category": "",
