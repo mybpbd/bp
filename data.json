@@ -11496,7 +11496,7 @@
   {
     "Name": "থাইম (শুকনো)",
     "English_Name": "Dried Thyme",
-    "Weight": "1001",
+    "Weight": "",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -11510,7 +11510,7 @@
   {
     "Name": "রোজমেরি (শুকনো)",
     "English_Name": "Dried Rosemary",
-    "Weight": "1002",
+    "Weight": "",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -11524,7 +11524,7 @@
   {
     "Name": "পার্সলে (শুকনো)",
     "English_Name": "Dried Parsley",
-    "Weight": "1003",
+    "Weight": "",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -11538,7 +11538,7 @@
   {
     "Name": "ব্যাসিল পাতা (শুকনো)",
     "English_Name": "Dried Basil Leaves",
-    "Weight": "1004",
+    "Weight": "",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -11552,7 +11552,7 @@
   {
     "Name": "ডিল লিভস",
     "English_Name": "Dried Dill Leaves",
-    "Weight": "1005",
+    "Weight": "",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -11566,7 +11566,7 @@
   {
     "Name": "শাইভস",
     "English_Name": "Dried Chives",
-    "Weight": "1006",
+    "Weight": "",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -11580,7 +11580,7 @@
   {
     "Name": "সেজ পাতা",
     "English_Name": "Dried Sage",
-    "Weight": "1007",
+    "Weight": "",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -11594,7 +11594,7 @@
   {
     "Name": "মারজোরাম",
     "English_Name": "Dried Marjoram",
-    "Weight": "1008",
+    "Weight": "",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -11608,7 +11608,7 @@
   {
     "Name": "ট্যারাগন",
     "English_Name": "Dried Tarragon",
-    "Weight": "1009",
+    "Weight": "",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -11622,7 +11622,7 @@
   {
     "Name": "গুগুল আঠা",
     "English_Name": "Guggul Resin",
-    "Weight": "1010",
+    "Weight": "",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -11636,7 +11636,7 @@
   {
     "Name": "লোবান",
     "English_Name": "Frankincense",
-    "Weight": "1011",
+    "Weight": "",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -11650,7 +11650,7 @@
   {
     "Name": "গন্ধরস",
     "English_Name": "Myrrh",
-    "Weight": "1012",
+    "Weight": "",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -11664,7 +11664,7 @@
   {
     "Name": "ধুনা",
     "English_Name": "Damar Resin",
-    "Weight": "1013",
+    "Weight": "",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -11678,7 +11678,7 @@
   {
     "Name": "কস্তুরী দানা",
     "English_Name": "Musk Grains (Vegetable source)",
-    "Weight": "1014",
+    "Weight": "",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -11692,7 +11692,7 @@
   {
     "Name": "শাল আঠা",
     "English_Name": "Sal Tree Resin",
-    "Weight": "1015",
+    "Weight": "",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -11706,7 +11706,7 @@
   {
     "Name": "চিলগোজা আঠা",
     "English_Name": "Pine Resin",
-    "Weight": "1016",
+    "Weight": "",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -11720,7 +11720,7 @@
   {
     "Name": "আমলকী আঠা",
     "English_Name": "Amla Resin",
-    "Weight": "1017",
+    "Weight": "",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -11734,7 +11734,7 @@
   {
     "Name": "পাহাড়ি আদা (ছোট)",
     "English_Name": "Hill Tracts Ginger",
-    "Weight": "1018",
+    "Weight": "",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -11748,7 +11748,7 @@
   {
     "Name": "জুম হলুদ",
     "English_Name": "Jhum Turmeric",
-    "Weight": "1019",
+    "Weight": "",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -11762,7 +11762,7 @@
   {
     "Name": "বাঁশ কোড়ল (শুকনো)",
     "English_Name": "Dried Bamboo Shoot",
-    "Weight": "1020",
+    "Weight": "",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -11776,7 +11776,7 @@
   {
     "Name": "পাহাড়ি কাঁচামরিচ (শুকনো)",
     "English_Name": "Hill Chili (Dried)",
-    "Weight": "1021",
+    "Weight": "",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -11790,7 +11790,7 @@
   {
     "Name": "মারফা বীজ",
     "English_Name": "Marfa Seeds (Hill Cucumber)",
-    "Weight": "1022",
+    "Weight": "",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -11804,7 +11804,7 @@
   {
     "Name": "জুম লেবু শুঁট",
     "English_Name": "Dried Jhum Lemon",
-    "Weight": "1023",
+    "Weight": "",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -11818,7 +11818,7 @@
   {
     "Name": "অপরাজিতা ফুল (শুকনো নীল)",
     "English_Name": "Dried Blue Pea Flower",
-    "Weight": "1024",
+    "Weight": "",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -11832,7 +11832,7 @@
   {
     "Name": "ল্যাভেন্ডার ফুল (শুকনো)",
     "English_Name": "Dried Lavender Flower",
-    "Weight": "1025",
+    "Weight": "",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -11846,7 +11846,7 @@
   {
     "Name": "ক্যামোমাইল ফুল",
     "English_Name": "Dried Chamomile Flower",
-    "Weight": "1026",
+    "Weight": "",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -11860,7 +11860,7 @@
   {
     "Name": "জুঁই ফুল (শুকনো)",
     "English_Name": "Dried Jasmine Flower",
-    "Weight": "1027",
+    "Weight": "",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -11874,7 +11874,7 @@
   {
     "Name": "সজনে ফুল গুঁড়া",
     "English_Name": "Moringa Flower Powder",
-    "Weight": "1028",
+    "Weight": "",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -11888,7 +11888,7 @@
   {
     "Name": "শাপলা ডাঁটা (শুকনো)",
     "English_Name": "Dried Water Lily Stem",
-    "Weight": "1029",
+    "Weight": "",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -11902,7 +11902,7 @@
   {
     "Name": "সূর্যমুখী তেল (কোল্ড প্রেসড)",
     "English_Name": "Cold Pressed Sunflower Oil",
-    "Weight": "1030",
+    "Weight": "",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -11916,7 +11916,7 @@
   {
     "Name": "বাদাম তেল (আমন্ড অয়েল)",
     "English_Name": "Sweet Almond Oil",
-    "Weight": "1031",
+    "Weight": "",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -11930,7 +11930,7 @@
   {
     "Name": "আখরোট তেল",
     "English_Name": "Walnut Oil",
-    "Weight": "1032",
+    "Weight": "",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -11944,7 +11944,7 @@
   {
     "Name": "কুমড়ো বীজ তেল",
     "English_Name": "Pumpkin Seed Oil",
-    "Weight": "1033",
+    "Weight": "",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -11958,7 +11958,7 @@
   {
     "Name": "তিসি তেল",
     "English_Name": "Flaxseed Oil",
-    "Weight": "1034",
+    "Weight": "",
     "Measurement": "",
     "Price": "",
     "Category": "",
