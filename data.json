@@ -3361,6 +3361,20 @@
   },
   {
     "Name": "ইসবগুলের ভুষি",
+    "English_Name": "",
+    "Weight": "",
+    "Measurement": "",
+    "Price": "",
+    "Category": "",
+    "Subcategory": "",
+    "Brand": "",
+    "State": "",
+    "Tag": "",
+    "Description": "",
+    "Image": ""
+  },
+  {
+    "Name": "ইসবগুলের ভুষি",
     "English_Name": "Psyllium Husk",
     "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "Solid",
