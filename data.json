@@ -3376,7 +3376,7 @@
   {
     "Name": "ইসবগুলের ভুষি",
     "English_Name": "Psyllium Husk",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "Solid",
     "Price": "95, 191, 479, 959, 1918, 4795",
     "Category": "আস্ত ভেষজ মূল ও ছাল",
