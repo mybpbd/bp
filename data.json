@@ -12490,7 +12490,7 @@
   {
     "Name": "টক দই",
     "English_Name": "Natural Sour Yogurt",
-    "Weight": "",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
