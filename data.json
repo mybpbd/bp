@@ -14,6 +14,34 @@
     "Image": "https://iili.io/qwCZvnV.jpg"
   },
   {
+    "Name": "টক দই",
+    "English_Name": "Natural Sour Yogurt",
+    "Weight": "500,1000,2000,3000,4000,5000",
+    "Measurement": "Solid",
+    "Price": "175, 350, 700, 1050, 1400, 1750",
+    "Category": "দুগ্ধজাত পণ্য",
+    "Subcategory": "",
+    "Brand": "",
+    "State": "",
+    "Tag": "",
+    "Description": "",
+    "Image": "https://iili.io/qO5xUlt.jpg"
+  },
+  {
+    "Name": "মিষ্টি দই",
+    "English_Name": "Traditional Sweet Yogurt (Misti Doi)",
+    "Weight": "500,1000,2000,3000,4000,5000",
+    "Measurement": "Solid",
+    "Price": "175, 350, 700, 1050, 1400, 1750",
+    "Category": "দুগ্ধজাত পণ্য",
+    "Subcategory": "",
+    "Brand": "",
+    "State": "",
+    "Tag": "",
+    "Description": "",
+    "Image": "https://iili.io/qO5l1WX.png"
+  },
+  {
     "Name": "কিনোয়া",
     "English_Name": "Quinoa",
     "Weight": "100,200,500,1000,2000,5000",
@@ -12388,34 +12416,6 @@
     "Tag": "",
     "Description": "",
     "Image": "https://iili.io/qOTL7Bn.jpg"
-  },
-  {
-    "Name": "টক দই",
-    "English_Name": "Natural Sour Yogurt",
-    "Weight": "500,1000,2000,3000,4000,5000",
-    "Measurement": "Solid",
-    "Price": "175, 350, 700, 1050, 1400, 1750",
-    "Category": "দুগ্ধজাত পণ্য",
-    "Subcategory": "",
-    "Brand": "",
-    "State": "",
-    "Tag": "",
-    "Description": "",
-    "Image": "https://iili.io/qO5xUlt.jpg"
-  },
-  {
-    "Name": "মিষ্টি দই",
-    "English_Name": "Traditional Sweet Yogurt (Misti Doi)",
-    "Weight": "500,1000,2000,3000,4000,5000",
-    "Measurement": "Solid",
-    "Price": "175, 350, 700, 1050, 1400, 1750",
-    "Category": "দুগ্ধজাত পণ্য",
-    "Subcategory": "",
-    "Brand": "",
-    "State": "",
-    "Tag": "",
-    "Description": "",
-    "Image": "https://iili.io/qO5l1WX.png"
   },
   {
     "Name": "ছোলা বুট",
