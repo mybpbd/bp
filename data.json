@@ -12434,7 +12434,7 @@
   {
     "Name": "লাল চিনি",
     "English_Name": "Brown Sugar",
-    "Weight": "",
+    "Weight": "500,1000,2000,3000,4000,5001",
     "Measurement": "",
     "Price": "",
     "Category": "",
