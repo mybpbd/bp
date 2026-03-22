@@ -154,12 +154,12 @@
     "Image": "https://iili.io/qXkKFwl.jpg"
   },
   {
-    "Name": "রান্নার নারিকেল তেল",
+    "Name": "তেল",
     "English_Name": "Coconut Cooking Oil",
     "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "Liquid",
     "Price": "100, 200, 500, 1000, 2000, 5000",
-    "Category": "সুপারফুড, তেল",
+    "Category": "",
     "Subcategory": "",
     "Brand": "",
     "State": "",
