@@ -56,6 +56,20 @@
     "Image": "https://iili.io/qk02ZUN.jpg"
   },
   {
+    "Name": "আখরোট",
+    "English_Name": "Walnut",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Measurement": "Solid",
+    "Price": "120, 240, 600, 1200, 2400, 6000",
+    "Category": "বাদাম ও বীজ",
+    "Subcategory": "",
+    "Brand": "",
+    "State": "",
+    "Tag": "",
+    "Description": "",
+    "Image": "https://iili.io/qX6NOl9.jpg"
+  },
+  {
     "Name": "কালো চাল (ব্ল্যাক রাইস)",
     "English_Name": "Black Rice (Kalo Chal)",
     "Weight": "500,1000,2000,5000,10000,25000",
@@ -250,20 +264,6 @@
     "Tag": "",
     "Description": "",
     "Image": "https://iili.io/qX6GfNS.jpg"
-  },
-  {
-    "Name": "আখরোট",
-    "English_Name": "Walnut",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
-    "Measurement": "Solid",
-    "Price": "120, 240, 600, 1200, 2400, 6000",
-    "Category": "বাদাম ও বীজ",
-    "Subcategory": "",
-    "Brand": "",
-    "State": "",
-    "Tag": "",
-    "Description": "",
-    "Image": "https://iili.io/qX6NOl9.jpg"
   },
   {
     "Name": "পেস্তা বাদাম",
