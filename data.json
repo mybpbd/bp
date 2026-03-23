@@ -28,6 +28,20 @@
     "Image": "https://iili.io/qO9GZ4p.jpg"
   },
   {
+    "Name": "পিঙ্ক সল্ট",
+    "English_Name": "Pink Salt",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Measurement": "Solid",
+    "Price": "109, 218, 545, 1090, 2180, 5450",
+    "Category": "মশলা",
+    "Subcategory": "",
+    "Brand": "",
+    "State": "",
+    "Tag": "",
+    "Description": "",
+    "Image": "https://iili.io/qhuKV2a.jpg"
+  },
+  {
     "Name": "কালো চাল (ব্ল্যাক রাইস)",
     "English_Name": "Black Rice (Kalo Chal)",
     "Weight": "500,1000,2000,5000,10000,25000",
@@ -432,20 +446,6 @@
     "Tag": "",
     "Description": "",
     "Image": "https://iili.io/qhxHP71.jpg"
-  },
-  {
-    "Name": "পিঙ্ক সল্ট",
-    "English_Name": "Pink Salt",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
-    "Measurement": "Solid",
-    "Price": "109, 218, 545, 1090, 2180, 5450",
-    "Category": "মশলা",
-    "Subcategory": "",
-    "Brand": "",
-    "State": "",
-    "Tag": "",
-    "Description": "",
-    "Image": "https://iili.io/qhuKV2a.jpg"
   },
   {
     "Name": "সাদা গোল মরিচ",
