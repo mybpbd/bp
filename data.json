@@ -12658,10 +12658,10 @@
   {
     "Name": "খিরসাপাত আম",
     "English_Name": "Khirsapat Mango",
-    "Weight": "",
-    "Measurement": "",
+    "Weight": "1000,2000,3000,4000,5000,10001",
+    "Measurement": "Solid",
     "Price": "",
-    "Category": "",
+    "Category": "\"আম, লিচু ও অন্যান্য ফল\"",
     "Subcategory": "",
     "Brand": "",
     "State": "",
