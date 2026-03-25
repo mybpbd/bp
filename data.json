@@ -12462,7 +12462,7 @@
   {
     "Name": "চায়না-৩ লিচু",
     "English_Name": "China-3 Litchi",
-    "Weight": "",
+    "Weight": "100, 200, 300, 400, 500, 1001",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -12476,7 +12476,7 @@
   {
     "Name": "বোম্বাই লিচু",
     "English_Name": "Bombai Litchi",
-    "Weight": "",
+    "Weight": "100, 200, 300, 400, 500, 1002",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -12490,7 +12490,7 @@
   {
     "Name": "মোজাফ্ফরপুরি লিচু",
     "English_Name": "Mozaffarpuri Litchi",
-    "Weight": "",
+    "Weight": "100, 200, 300, 400, 500, 1003",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -12504,7 +12504,7 @@
   {
     "Name": "Madrazi Litchi",
     "English_Name": "মাদ্রাজি লিচু",
-    "Weight": "",
+    "Weight": "100, 200, 300, 400, 500, 1004",
     "Measurement": "",
     "Price": "",
     "Category": "",
