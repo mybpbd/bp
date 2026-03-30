@@ -12686,7 +12686,7 @@
   {
     "Name": "সোনাপাতা",
     "English_Name": "Senna Leaf",
-    "Weight": "",
+    "Weight": "100, 200, 300, 400, 500, 1000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -12700,7 +12700,7 @@
   {
     "Name": "সোনাপাতা গুঁড়া",
     "English_Name": "Senna Leaf Powder",
-    "Weight": "",
+    "Weight": "100, 200, 300, 400, 500, 1000",
     "Measurement": "",
     "Price": "",
     "Category": "",
