@@ -12672,7 +12672,7 @@
   {
     "Name": "চুই ঝাল",
     "English_Name": "Chui Jhal",
-    "Weight": "",
+    "Weight": "100, 200, 300, 400, 500, 1000",
     "Measurement": "",
     "Price": "",
     "Category": "",
