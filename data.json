@@ -658,6 +658,20 @@
     "Image": "https://iili.io/qO9yh1n.jpg"
   },
   {
+    "Name": "লাল চিনি",
+    "English_Name": "Brown Sugar",
+    "Weight": "500,1000,2000,3000,4000,5000",
+    "Measurement": "Solid",
+    "Price": "",
+    "Category": "গুড় ও চিনি",
+    "Subcategory": "",
+    "Brand": "",
+    "State": "প্রি-অর্ডার",
+    "Tag": "",
+    "Description": "",
+    "Image": "https://iili.io/qkND5Ol.webp"
+  },
+  {
     "Name": "হিমসাগর আম",
     "English_Name": "Himsagar Mango",
     "Weight": "1000,2000,3000,4000,5000,10000",
@@ -782,19 +796,5 @@
     "Tag": "",
     "Description": "",
     "Image": "https://iili.io/qsavCQf.jpg"
-  },
-  {
-    "Name": "লাল চিনি",
-    "English_Name": "Brown Sugar",
-    "Weight": "500,1000,2000,3000,4000,5000",
-    "Measurement": "Solid",
-    "Price": "",
-    "Category": "গুড় ও চিনি",
-    "Subcategory": "",
-    "Brand": "",
-    "State": "প্রি-অর্ডার",
-    "Tag": "",
-    "Description": "",
-    "Image": "https://iili.io/qkND5Ol.webp"
   }
 ]
