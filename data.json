@@ -574,6 +574,20 @@
     "Image": "https://iili.io/qO9JIuR.png"
   },
   {
+    "Name": "খেজুরের চকলেট / বীজ গুড়",
+    "English_Name": "Date Chocolate Jaggery",
+    "Weight": "500,1000,2000,3000,4000,5000",
+    "Measurement": "Solid",
+    "Price": "",
+    "Category": "গুড় ও চিনি",
+    "Subcategory": "",
+    "Brand": "",
+    "State": "",
+    "Tag": "",
+    "Description": "",
+    "Image": ""
+  },
+  {
     "Name": "তালের গুড়",
     "English_Name": "Palm Jaggery",
     "Weight": "500,1000,2000,3000,4000,5000",
@@ -614,19 +628,5 @@
     "Tag": "",
     "Description": "",
     "Image": "https://iili.io/BKbZCaj.png"
-  },
-  {
-    "Name": "খেজুরের চকলেট / বীজ গুড়",
-    "English_Name": "Date Chocolate Jaggery",
-    "Weight": "500,1000,2000,3000,4000,5000",
-    "Measurement": "Solid",
-    "Price": "",
-    "Category": "গুড় ও চিনি",
-    "Subcategory": "",
-    "Brand": "",
-    "State": "",
-    "Tag": "",
-    "Description": "",
-    "Image": ""
   }
 ]
