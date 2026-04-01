@@ -574,6 +574,20 @@
     "Image": ""
   },
   {
+    "Name": "কালোজিরার তেল",
+    "English_Name": "Black Seed (Kalonji) Oil",
+    "Weight": "",
+    "Measurement": "",
+    "Price": "",
+    "Category": "",
+    "Subcategory": "",
+    "Brand": "",
+    "State": "",
+    "Tag": "",
+    "Description": "",
+    "Image": ""
+  },
+  {
     "Name": "খেজুরের গুড় (পাটালি)",
     "English_Name": "Date Palm Jaggery Blocks (Patali Gur)",
     "Weight": "500,1000,2000,3000,4000,5000",
@@ -684,19 +698,5 @@
     "Tag": "",
     "Description": "",
     "Image": "https://iili.io/BKbZCaj.png"
-  },
-  {
-    "Name": "কালোজিরার তেল",
-    "English_Name": "Black Seed (Kalonji) Oil",
-    "Weight": "",
-    "Measurement": "",
-    "Price": "",
-    "Category": "",
-    "Subcategory": "",
-    "Brand": "",
-    "State": "",
-    "Tag": "",
-    "Description": "",
-    "Image": ""
   }
 ]
