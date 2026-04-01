@@ -490,20 +490,6 @@
     "Image": "https://iili.io/BKi0Dj2.png"
   },
   {
-    "Name": "রান্নার নারিকেল তেল",
-    "English_Name": "Cooking Coconut Oil",
-    "Weight": "500,1000,2000,3000,4000,5000",
-    "Measurement": "Liquid",
-    "Price": "",
-    "Category": "তেল",
-    "Subcategory": "",
-    "Brand": "",
-    "State": "",
-    "Tag": "",
-    "Description": "",
-    "Image": "https://iili.io/BKQDvIt.png"
-  },
-  {
     "Name": "নারিকেল তেল ( কাঠের ঘানি ভাঙ্গা )",
     "English_Name": "Coconut Oil (Wood-pressed/Cold-pressed)",
     "Weight": "",
@@ -516,6 +502,20 @@
     "Tag": "",
     "Description": "",
     "Image": ""
+  },
+  {
+    "Name": "রান্নার নারিকেল তেল",
+    "English_Name": "Cooking Coconut Oil",
+    "Weight": "500,1000,2000,3000,4000,5000",
+    "Measurement": "Liquid",
+    "Price": "",
+    "Category": "তেল",
+    "Subcategory": "",
+    "Brand": "",
+    "State": "",
+    "Tag": "",
+    "Description": "",
+    "Image": "https://iili.io/BKQDvIt.png"
   },
   {
     "Name": "কালোজিরার তেল",
