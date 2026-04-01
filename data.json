@@ -353,7 +353,7 @@
     "Name": "সরিষার তেল ( কাঠের ঘানি ভাঙ্গা )",
     "English_Name": "Mustard Oil (Wood-pressed/Cold-pressed)",
     "Weight": "500,1000,2000,3000,4000,4999",
-    "Measurement": "",
+    "Measurement": "Liquid",
     "Price": "",
     "Category": "",
     "Subcategory": "",
@@ -520,7 +520,7 @@
   {
     "Name": "কালোজিরার তেল",
     "English_Name": "Black Seed (Kalonji) Oil",
-    "Weight": "500,1000,2000,3000,4000,5003",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Liquid",
     "Price": "",
     "Category": "",
