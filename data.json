@@ -308,7 +308,7 @@
     "Image": ""
   },
   {
-    "Name": "পাহাড়ি র  মধু",
+    "Name": "পাহাড়ি র মধু",
     "English_Name": "Hill Honey",
     "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
@@ -320,6 +320,20 @@
     "Tag": "",
     "Description": "",
     "Image": "https://iili.io/BKMUIlS.png"
+  },
+  {
+    "Name": "পাহাড়ি র মধু",
+    "English_Name": "",
+    "Weight": "",
+    "Measurement": "",
+    "Price": "",
+    "Category": "",
+    "Subcategory": "",
+    "Brand": "",
+    "State": "",
+    "Tag": "",
+    "Description": "",
+    "Image": ""
   },
   {
     "Name": "ক্রিস্টাল হানি",
