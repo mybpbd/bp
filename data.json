@@ -463,8 +463,8 @@
   },
   {
     "Name": "সুন্দরবনের প্রাকৃতিক চাকের মধু",
-    "English_Name": "Natural Honeycomb Honey",
-    "Weight": "",
+    "English_Name": "Sundarban Natural Honeycomb Honey",
+    "Weight": "500,1000,2000,3000,4000,5001",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -478,7 +478,7 @@
   {
     "Name": "গ্রামের প্রাকৃতিক চাকের মধু",
     "English_Name": "Village Natural Honeycomb Honey",
-    "Weight": "",
+    "Weight": "500,1000,2000,3000,4000,5002",
     "Measurement": "",
     "Price": "",
     "Category": "",
