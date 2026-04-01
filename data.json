@@ -590,7 +590,7 @@
   {
     "Name": "খেজুরের গুড় (পাটালি)",
     "English_Name": "Date Palm Jaggery Blocks (Patali Gur)",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "",
     "Measurement": "Solid",
     "Price": "",
     "Category": "গুড় ও চিনি",
@@ -604,7 +604,7 @@
   {
     "Name": "আখের গুড় (পাটালি)",
     "English_Name": "Sugarcane Jaggery Blocks",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "",
     "Measurement": "Solid",
     "Price": "",
     "Category": "গুড় ও চিনি",
@@ -618,7 +618,7 @@
   {
     "Name": "আখের গুড় (ঝোলা)",
     "English_Name": "Liquid Sugarcane Jaggery",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "",
     "Measurement": "Solid",
     "Price": "",
     "Category": "গুড় ও চিনি",
@@ -632,7 +632,7 @@
   {
     "Name": "খেজুরের গুড় (নলেন)",
     "English_Name": "Liquid Date Palm Jaggery (Nolen Gur)",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "",
     "Measurement": "Solid",
     "Price": "",
     "Category": "গুড় ও চিনি",
@@ -646,7 +646,7 @@
   {
     "Name": "তালের গুড়",
     "English_Name": "Palm Jaggery",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "",
     "Measurement": "Solid",
     "Price": "",
     "Category": "গুড় ও চিনি",
