@@ -338,7 +338,7 @@
   {
     "Name": "মিশ্র সরিষা তেল",
     "English_Name": "Mixed Mustard Oil",
-    "Weight": "",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "",
     "Price": "",
     "Category": "তেল",
@@ -352,7 +352,7 @@
   {
     "Name": "তোরিয়া সরিষা তেল",
     "English_Name": "Toria Mustard Oil",
-    "Weight": "",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "",
     "Price": "",
     "Category": "তেল",
@@ -366,7 +366,7 @@
   {
     "Name": "রাই সরিষা তেল",
     "English_Name": "Rai Mustard (Brown Mustard) Oil",
-    "Weight": "",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "",
     "Price": "",
     "Category": "তেল",
@@ -380,7 +380,7 @@
   {
     "Name": "সাদা সরিষা তেল",
     "English_Name": "White Mustard Oil",
-    "Weight": "",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "",
     "Price": "",
     "Category": "তেল",
@@ -394,7 +394,7 @@
   {
     "Name": "কালো সরিষা তেল",
     "English_Name": "Black Mustard Oil",
-    "Weight": "",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "",
     "Price": "",
     "Category": "তেল",
@@ -408,7 +408,7 @@
   {
     "Name": "বারি সরিষা তেল",
     "English_Name": "BARI Mustard Oil",
-    "Weight": "",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "",
     "Price": "",
     "Category": "তেল",
@@ -422,7 +422,7 @@
   {
     "Name": "বিনা সরিষা তেল",
     "English_Name": "BINA Mustard Oil",
-    "Weight": "",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "",
     "Price": "",
     "Category": "তেল",
@@ -436,7 +436,7 @@
   {
     "Name": "দেশি সরিষা তেল",
     "English_Name": "Local Mustard Oil",
-    "Weight": "",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "",
     "Price": "",
     "Category": "তেল",
