@@ -492,7 +492,7 @@
   {
     "Name": "নারিকেল তেল ( কাঠের ঘানি ভাঙ্গা )",
     "English_Name": "Coconut Oil (Wood-pressed/Cold-pressed)",
-    "Weight": "",
+    "Weight": "500,1000,2000,3000,4000,5001",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -506,7 +506,7 @@
   {
     "Name": "রান্নার নারিকেল তেল",
     "English_Name": "Cooking Coconut Oil",
-    "Weight": "500,1000,2000,3000,4000,5000",
+    "Weight": "500,1000,2000,3000,4000,5002",
     "Measurement": "Liquid",
     "Price": "",
     "Category": "তেল",
@@ -520,7 +520,7 @@
   {
     "Name": "কালোজিরার তেল",
     "English_Name": "Black Seed (Kalonji) Oil",
-    "Weight": "",
+    "Weight": "500,1000,2000,3000,4000,5003",
     "Measurement": "",
     "Price": "",
     "Category": "",
