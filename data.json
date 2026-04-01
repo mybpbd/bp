@@ -546,34 +546,6 @@
     "Image": ""
   },
   {
-    "Name": "ভোজ্য নারিকেল তেল",
-    "English_Name": "Edible Coconut Oil",
-    "Weight": "500,1000,2000,3000,4000,5000",
-    "Measurement": "Liquid",
-    "Price": "",
-    "Category": "তেল",
-    "Subcategory": "",
-    "Brand": "",
-    "State": "",
-    "Tag": "",
-    "Description": "",
-    "Image": "https://iili.io/BKQRBh7.png"
-  },
-  {
-    "Name": "খাঁটি নারিকেল তেল",
-    "English_Name": "Pure Coconut Oil",
-    "Weight": "500,1000,2000,3000,4000,5000",
-    "Measurement": "Liquid",
-    "Price": "",
-    "Category": "তেল",
-    "Subcategory": "",
-    "Brand": "",
-    "State": "",
-    "Tag": "",
-    "Description": "",
-    "Image": "https://iili.io/BKLttGj.png"
-  },
-  {
     "Name": "রান্নার নারিকেল তেল",
     "English_Name": "Cooking Coconut Oil",
     "Weight": "500,1000,2000,3000,4000,5000",
