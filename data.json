@@ -128,7 +128,7 @@
   {
     "Name": "তিল ফুলের মধু",
     "English_Name": "Sesame Flower Honey",
-    "Weight": "",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Liquid",
     "Price": "",
     "Category": "মধু",
@@ -142,7 +142,7 @@
   {
     "Name": "বরই ফুলের মধু",
     "English_Name": "Jujube Flower Honey",
-    "Weight": "",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Liquid",
     "Price": "",
     "Category": "মধু",
