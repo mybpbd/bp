@@ -840,6 +840,20 @@
     "Image": "https://iili.io/BIC3Cdv.jpg"
   },
   {
+    "Name": "আলুবোখারা",
+    "English_Name": "Dried Plum",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Measurement": "Solid",
+    "Price": "109, 219, 549, 1099, 2198, 5495",
+    "Category": "খেজুর ও শুকনো ফল",
+    "Subcategory": "",
+    "Brand": "",
+    "State": "",
+    "Tag": "",
+    "Description": "",
+    "Image": "https://iili.io/qhGGqTQ.jpg"
+  },
+  {
     "Name": "কিসমিস",
     "English_Name": "Raisins",
     "Weight": "100, 200, 500, 1000, 2000, 5000",
@@ -894,20 +908,6 @@
     "Tag": "",
     "Description": "",
     "Image": "https://iili.io/BIndv7R.webp"
-  },
-  {
-    "Name": "আলুবোখারা",
-    "English_Name": "Dried Plum",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
-    "Measurement": "Solid",
-    "Price": "109, 219, 549, 1099, 2198, 5495",
-    "Category": "খেজুর ও শুকনো ফল",
-    "Subcategory": "",
-    "Brand": "",
-    "State": "",
-    "Tag": "",
-    "Description": "",
-    "Image": "https://iili.io/qhGGqTQ.jpg"
   },
   {
     "Name": "খেজুর (আজওয়া)",
