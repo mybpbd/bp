@@ -1304,7 +1304,7 @@
   {
     "Name": "পিঙ্ক সল্ট",
     "English_Name": "Pink Salt",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "109, 218, 545, 1090, 2180, 5450",
     "Category": "মশলা",
@@ -1318,7 +1318,7 @@
   {
     "Name": "সাদা গোল মরিচ",
     "English_Name": "White Pepper",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "150, 300, 750, 1500, 3000, 7500",
     "Category": "মশলা",
@@ -1332,7 +1332,7 @@
   {
     "Name": "কালো গোল মরিচ",
     "English_Name": "Black Pepper",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "130, 260, 650, 1300, 2600, 6500",
     "Category": "মশলা",
@@ -1346,7 +1346,7 @@
   {
     "Name": "কাঁচা জিরা",
     "English_Name": "Cumin",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "60, 121, 304, 609, 1218, 3045",
     "Category": "মশলা",
@@ -1360,7 +1360,7 @@
   {
     "Name": "ভাজা জিরা",
     "English_Name": "Roasted Cumin",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "65, 130, 327, 654, 1308, 3270",
     "Category": "মশলা",
@@ -1374,7 +1374,7 @@
   {
     "Name": "কাঁচা জিরা গুড়া",
     "English_Name": "Cumin Powder",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "80, 160, 400, 800, 1600, 4000",
     "Category": "মশলা",
@@ -1388,7 +1388,7 @@
   {
     "Name": "ভাজা জিরা গুড়া",
     "English_Name": "Roasted Cumin Powder",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "85, 170, 425, 850, 1700, 4250",
     "Category": "মশলা",
@@ -1402,7 +1402,7 @@
   {
     "Name": "শাহী জিরা",
     "English_Name": "Caraway Seeds",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "মশলা",
@@ -1416,7 +1416,7 @@
   {
     "Name": "শুকনা মরিচ",
     "English_Name": "Dry Chili",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "মশলা",
@@ -1430,7 +1430,7 @@
   {
     "Name": "মরিচ গুড়া",
     "English_Name": "Chili Powder",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "মশলা",
@@ -1444,7 +1444,7 @@
   {
     "Name": "হলুদ গুড়া",
     "English_Name": "Turmeric Powder",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "মশলা",
@@ -1458,7 +1458,7 @@
   {
     "Name": "মেথি",
     "English_Name": "Fenugreek",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "14, 29, 73, 146, 292, 730",
     "Category": "মশলা",
@@ -1472,7 +1472,7 @@
   {
     "Name": "ছোট এলাচ",
     "English_Name": "Small Cardamom",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "522, 1045, 2612, 5225, 10450, 26125",
     "Category": "মশলা",
@@ -1486,7 +1486,7 @@
   {
     "Name": "বড় এলাচ",
     "English_Name": "Large Cardamom",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "মশলা",
@@ -1500,7 +1500,7 @@
   {
     "Name": "কালো এলাচ",
     "English_Name": "Black Cardamom",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "282, 565, 1414, 2828, 5656, 14140",
     "Category": "মশলা",
@@ -1514,7 +1514,7 @@
   {
     "Name": "সবুজ এলাচ",
     "English_Name": "Green Cardamom",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "মশলা",
@@ -1528,7 +1528,7 @@
   {
     "Name": "দারুচিনি",
     "English_Name": "Cinnamon",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "55, 110, 275, 550, 1100, 2750",
     "Category": "মশলা",
@@ -1542,7 +1542,7 @@
   {
     "Name": "শ্রীলঙ্কান দারুচিনি",
     "English_Name": "Ceylon Cinnamon",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "120, 240, 600, 1200, 2400, 6000",
     "Category": "মশলা",
@@ -1556,7 +1556,7 @@
   {
     "Name": "ধনিয়া",
     "English_Name": "Coriander",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "মশলা",
@@ -1570,7 +1570,7 @@
   {
     "Name": "জয়ত্রী",
     "English_Name": "Mace",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "329, 659, 1649, 3299, 6598, 16495",
     "Category": "মশলা",
@@ -1584,7 +1584,7 @@
   {
     "Name": "জয়ফল",
     "English_Name": "Nutmeg",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "169, 339, 849, 1699, 3398, 8495",
     "Category": "মশলা",
@@ -1598,7 +1598,7 @@
   {
     "Name": "লবঙ্গ",
     "English_Name": "Cloves",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "150, 300, 750, 1500, 3000, 7500",
     "Category": "মশলা",
@@ -1612,7 +1612,7 @@
   {
     "Name": "তেজপাতা",
     "English_Name": "Bay Leaf",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "মশলা",
@@ -1626,7 +1626,7 @@
   {
     "Name": "স্টার মশলা",
     "English_Name": "Star Anise",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "119, 239, 599, 1199, 2398, 5995",
     "Category": "মশলা",
@@ -1640,7 +1640,7 @@
   {
     "Name": "কাবাব চিনি",
     "English_Name": "Cubeb Pepper",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "মশলা",
@@ -1654,7 +1654,7 @@
   {
     "Name": "মৌরি",
     "English_Name": "Fennel Seeds",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "মশলা",
@@ -1668,7 +1668,7 @@
   {
     "Name": "কালোজিরা",
     "English_Name": "Black Cumin",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "52, 105, 262, 524, 1048, 2620",
     "Category": "মশলা",
@@ -1682,7 +1682,7 @@
   {
     "Name": "সাদা সরিষা",
     "English_Name": "White Mustard",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "12, 24, 61, 123, 246, 615",
     "Category": "মশলা",
@@ -1696,7 +1696,7 @@
   {
     "Name": "কালো সরিষা",
     "English_Name": "Black Mustard",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "12, 24, 61, 123, 246, 615",
     "Category": "মশলা",
@@ -1710,7 +1710,7 @@
   {
     "Name": "রাধুনী",
     "English_Name": "Wild Celery Seeds (Ajmod)",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "মশলা",
@@ -1724,7 +1724,7 @@
   {
     "Name": "জৈন",
     "English_Name": "Ajwain (Carom Seeds)",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "মশলা",
@@ -1738,7 +1738,7 @@
   {
     "Name": "পাঁচফোড়ন",
     "English_Name": "Panch Phoron",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "24, 49, 123, 246, 492, 1230",
     "Category": "মশলা",
@@ -1752,7 +1752,7 @@
   {
     "Name": "পিপুল",
     "English_Name": "Long Pepper",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "মশলা",
@@ -1766,7 +1766,7 @@
   {
     "Name": "নাগকেশর",
     "English_Name": "Cobra Saffron",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "মশলা",
@@ -1780,7 +1780,7 @@
   {
     "Name": "কাসুরি মেথি",
     "English_Name": "Dried Fenugreek Leaves",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "মশলা",
@@ -1794,7 +1794,7 @@
   {
     "Name": "কারি পাতা (শুকনো)",
     "English_Name": "Dried Curry Leaves",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "মশলা",
@@ -1808,7 +1808,7 @@
   {
     "Name": "লেমন গ্রাস (শুকনো)",
     "English_Name": "Dried Lemon Grass",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "মশলা",
@@ -1822,7 +1822,7 @@
   {
     "Name": "থাই আদা (গালাঙ্গল)",
     "English_Name": "Thai Ginger (Galangal)",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "মশলা",
@@ -1836,7 +1836,7 @@
   {
     "Name": "শুঁট আদা (শুকনো আদা)",
     "English_Name": "Dried Ginger",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "মশলা",
@@ -1850,7 +1850,7 @@
   {
     "Name": "আমচুর স্লাইস",
     "English_Name": "Dried Mango Slice",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "মশলা",
@@ -1864,7 +1864,7 @@
   {
     "Name": "হিং (দানা)",
     "English_Name": "Asafoetida (Lump)",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "মশলা",
@@ -1878,7 +1878,7 @@
   {
     "Name": "হিং (গুঁড়া)",
     "English_Name": "Asafoetida Powder",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "মশলা",
@@ -1892,7 +1892,7 @@
   {
     "Name": "বিট লবণ (দানা)",
     "English_Name": "Black Salt (Granules)",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "মশলা",
@@ -1906,7 +1906,7 @@
   {
     "Name": "বিট লবণ (গুঁড়া)",
     "English_Name": "Black Salt Powder",
-    "Weight": "500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "37, 75, 150, 375",
     "Category": "মশলা",
@@ -1920,7 +1920,7 @@
   {
     "Name": "সামুদ্রিক লবণের দানা",
     "English_Name": "Sea Salt Crystals",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "মশলা",
@@ -1934,7 +1934,7 @@
   {
     "Name": "জাফরান (ইরানি)",
     "English_Name": "Iranian Saffron",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "মশলা",
@@ -1948,7 +1948,7 @@
   {
     "Name": "জাফরান (কাশ্মীরি)",
     "English_Name": "Kashmiri Saffron",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "মশলা",
@@ -1962,7 +1962,7 @@
   {
     "Name": "চাট মশলা",
     "English_Name": "Chaat Masala",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "মশলা",
@@ -1976,7 +1976,7 @@
   {
     "Name": "বিরিয়ানি মশলা (মিক্স)",
     "English_Name": "Biryani Masala Mix",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "মশলা",
@@ -1990,7 +1990,7 @@
   {
     "Name": "তেহারি মশলা",
     "English_Name": "Tehari Masala",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "মশলা",
@@ -2004,7 +2004,7 @@
   {
     "Name": "কাচ্চি বিরিয়ানি মশলা",
     "English_Name": "Kacchi Biryani Masala",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "মশলা",
@@ -2018,7 +2018,7 @@
   {
     "Name": "মেজবানি মাংসের মশলা",
     "English_Name": "Mezbani Meat Masala",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "মশলা",
@@ -2032,7 +2032,7 @@
   {
     "Name": "হালিম মিক্স মশলা",
     "English_Name": "Haleem Mix Masala",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "মশলা",
@@ -2046,7 +2046,7 @@
   {
     "Name": "রোস্ট মশলা",
     "English_Name": "Roast Masala",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "মশলা",
@@ -2060,7 +2060,7 @@
   {
     "Name": "কাবাব মশলা (শামি/টিক্কা)",
     "English_Name": "Kabab Masala",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "মশলা",
@@ -2074,7 +2074,7 @@
   {
     "Name": "তন্দুরি মশলা",
     "English_Name": "Tandoori Masala",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "মশলা",
@@ -2088,7 +2088,7 @@
   {
     "Name": "ফিশ কারি মশলা",
     "English_Name": "Fish Curry Masala",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "মশলা",
@@ -2102,7 +2102,7 @@
   {
     "Name": "সবজি মশলা",
     "English_Name": "Vegetable Masala",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "মশলা",
@@ -2116,7 +2116,7 @@
   {
     "Name": "পাঁপড় মশলা",
     "English_Name": "Papad Masala",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "মশলা",
@@ -2130,7 +2130,7 @@
   {
     "Name": "বোরহানি মশলা",
     "English_Name": "Borhani Masala",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "মশলা",
@@ -2144,7 +2144,7 @@
   {
     "Name": "সালাদ মশলা",
     "English_Name": "Salad Masala",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "মশলা",
@@ -2158,7 +2158,7 @@
   {
     "Name": "শুকনা মরিচ (পঞ্চগড়ের)",
     "English_Name": "Dried Chili (Panchagarh)",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "মশলা",
@@ -2172,7 +2172,7 @@
   {
     "Name": "নাগা মরিচ (শুকনো)",
     "English_Name": "Ghost Pepper (Dried)",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "মশলা",
@@ -2186,7 +2186,7 @@
   {
     "Name": "কামিনী ফুল (মশলা)",
     "English_Name": "Orange Jasmine Flower",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "মশলা",
@@ -2200,7 +2200,7 @@
   {
     "Name": "জয়ফল (গুঁড়া)",
     "English_Name": "Nutmeg Powder",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "মশলা",
@@ -2214,7 +2214,7 @@
   {
     "Name": "জয়ত্রী (গুঁড়া)",
     "English_Name": "Mace Powder",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "মশলা",
@@ -2228,7 +2228,7 @@
   {
     "Name": "এলাচ গুঁড়া",
     "English_Name": "Cardamom Powder",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "মশলা",
@@ -2242,7 +2242,7 @@
   {
     "Name": "দারুচিনি গুঁড়া",
     "English_Name": "Cinnamon Powder",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "মশলা",
@@ -2256,7 +2256,7 @@
   {
     "Name": "লবঙ্গ গুঁড়া",
     "English_Name": "Clove Powder",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "মশলা",
@@ -2270,7 +2270,7 @@
   {
     "Name": "আদা বাটা",
     "English_Name": "Ginger Paste",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "মশলা",
@@ -2284,7 +2284,7 @@
   {
     "Name": "রসুন বাটা",
     "English_Name": "Garlic Paste",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "মশলা",
@@ -2298,7 +2298,7 @@
   {
     "Name": "পেঁয়াজ বাটা",
     "English_Name": "Onion Paste",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "মশলা",
@@ -2312,7 +2312,7 @@
   {
     "Name": "কাঁচামরিচ বাটা",
     "English_Name": "Green Chili Paste",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "মশলা",
@@ -2326,7 +2326,7 @@
   {
     "Name": "সরিষা বাটা (কাসুন্দি)",
     "English_Name": "Mustard Paste (Kasundi)",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "মশলা",
@@ -2340,7 +2340,7 @@
   {
     "Name": "আমচুর পাউডার",
     "English_Name": "Dried Mango Powder",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "মশলা",
@@ -2354,7 +2354,7 @@
   {
     "Name": "লেবুর জেস্ট গুঁড়া",
     "English_Name": "Lemon Zest Powder",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "মশলা",
@@ -2368,7 +2368,7 @@
   {
     "Name": "রসুন পাউডার",
     "English_Name": "Garlic Powder",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "মশলা",
@@ -2382,7 +2382,7 @@
   {
     "Name": "পেঁয়াজ পাউডার",
     "English_Name": "Onion Powder",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "মশলা",
@@ -2396,7 +2396,7 @@
   {
     "Name": "আদা পাউডার",
     "English_Name": "Ginger Powder",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "মশলা",
@@ -2410,7 +2410,7 @@
   {
     "Name": "ছোট এলাচ",
     "English_Name": "Green Cardamom",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "মশলা",
@@ -2424,7 +2424,7 @@
   {
     "Name": "ধনিয়া (আস্ত দেশি)",
     "English_Name": "Coriander Seeds (Desi)",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "মশলা",
@@ -2438,7 +2438,7 @@
   {
     "Name": "ধনিয়া গুঁড়া",
     "English_Name": "Coriander Powder",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "মশলা",
@@ -2452,7 +2452,7 @@
   {
     "Name": "কাসুন্দি বীজ",
     "English_Name": "Mustard Seed Variant (Kasundi)",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "মশলা",
@@ -2466,7 +2466,7 @@
   {
     "Name": "তেজপাতা গুঁড়া",
     "English_Name": "Bay Leaf Powder",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "মশলা",
@@ -2480,7 +2480,7 @@
   {
     "Name": "নাগা মরিচ বীজ",
     "English_Name": "Ghost Pepper Seeds",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "মশলা",
@@ -2494,7 +2494,7 @@
   {
     "Name": "কাবাব চিনি গুঁড়া",
     "English_Name": "Cubeb Powder",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "মশলা",
@@ -2508,7 +2508,7 @@
   {
     "Name": "বিট লবণ পাথর",
     "English_Name": "Black Salt Rock",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "মশলা",
@@ -2522,7 +2522,7 @@
   {
     "Name": "সামুদ্রিক লবণ (অশোধিত)",
     "English_Name": "Raw Sea Salt Crystals",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "মশলা",
@@ -2536,7 +2536,7 @@
   {
     "Name": "কাবাব চিনি আস্ত",
     "English_Name": "Whole Cubeb Pepper",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "মশলা",
@@ -2550,7 +2550,7 @@
   {
     "Name": "রাই সরিষা আস্ত",
     "English_Name": "Brown Mustard Seeds",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "মশলা",
@@ -2564,7 +2564,7 @@
   {
     "Name": "চাট মশলা উপাদান",
     "English_Name": "Chaat Masala Ingredients",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "মশলা",
@@ -2578,7 +2578,7 @@
   {
     "Name": "লবঙ্গ গুঁড়া (মিহি)",
     "English_Name": "Fine Clove Powder",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "মশলা",
@@ -2592,7 +2592,7 @@
   {
     "Name": "রসুন শুকনো স্লাইস",
     "English_Name": "Dried Garlic Slices",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "মশলা",
@@ -2606,7 +2606,7 @@
   {
     "Name": "পেঁয়াজ শুকনো ফ্লেক্স",
     "English_Name": "Dried Onion Flakes",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "মশলা",
@@ -2620,7 +2620,7 @@
   {
     "Name": "কাঁচামরিচ শুকনো গুঁড়া",
     "English_Name": "Green Chili Powder",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "মশলা",
@@ -2634,7 +2634,7 @@
   {
     "Name": "লেবুর শুকনো খোসা",
     "English_Name": "Dried Lemon Peel",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "মশলা",
@@ -2648,7 +2648,7 @@
   {
     "Name": "অরিগানো (শুকনো)",
     "English_Name": "Dried Oregano",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "মশলা",
@@ -2662,7 +2662,7 @@
   {
     "Name": "থাইম (শুকনো)",
     "English_Name": "Dried Thyme",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "মশলা",
@@ -2676,7 +2676,7 @@
   {
     "Name": "রোজমেরি (শুকনো)",
     "English_Name": "Dried Rosemary",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "মশলা",
@@ -2690,7 +2690,7 @@
   {
     "Name": "পার্সলে (শুকনো)",
     "English_Name": "Dried Parsley",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "মশলা",
@@ -2704,7 +2704,7 @@
   {
     "Name": "ব্যাসিল পাতা (শুকনো)",
     "English_Name": "Dried Basil Leaves",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "মশলা",
@@ -2718,7 +2718,7 @@
   {
     "Name": "ডিল লিভস",
     "English_Name": "Dried Dill Leaves",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "মশলা",
@@ -2732,7 +2732,7 @@
   {
     "Name": "শাইভস",
     "English_Name": "Dried Chives",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "মশলা",
@@ -2746,7 +2746,7 @@
   {
     "Name": "সেজ পাতা",
     "English_Name": "Dried Sage",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "মশলা",
@@ -2760,7 +2760,7 @@
   {
     "Name": "মারজোরাম",
     "English_Name": "Dried Marjoram",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "মশলা",
@@ -2774,7 +2774,7 @@
   {
     "Name": "ট্যারাগন",
     "English_Name": "Dried Tarragon",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "মশলা",
@@ -2788,7 +2788,7 @@
   {
     "Name": "চুই ঝাল",
     "English_Name": "Chui Jhal",
-    "Weight": "100, 200, 300, 400, 500, 1000",
+    "Weight": "500,1000,2000,3000,4000,5000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "মশলা",
