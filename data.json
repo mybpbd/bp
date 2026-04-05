@@ -2900,7 +2900,7 @@
   {
     "Name": "হিমসাগর আম",
     "English_Name": "Himsagar Mango",
-    "Weight": "",
+    "Weight": "1000,2000,3000,4000,5000,10000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "\"আম, লিচু ও অন্যান্য ফল\"",
