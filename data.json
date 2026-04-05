@@ -2886,8 +2886,8 @@
   {
     "Name": "লাল চাল",
     "English_Name": "Lal Chal",
-    "Weight": "",
-    "Measurement": "",
+    "Weight": "500,1000,2000,3000,4000,5001",
+    "Measurement": "Solid",
     "Price": "",
     "Category": "",
     "Subcategory": "",
