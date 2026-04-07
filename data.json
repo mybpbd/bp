@@ -2928,7 +2928,7 @@
   {
     "Name": "রাঁধুনি মসলা",
     "English_Name": "",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -2942,7 +2942,7 @@
   {
     "Name": "ইসবগুলের ভুসি",
     "English_Name": "",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -2956,7 +2956,7 @@
   {
     "Name": "চিয়া সিড",
     "English_Name": "",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -2970,7 +2970,7 @@
   {
     "Name": "তিন ফল",
     "English_Name": "",
-    "Weight": "",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
     "Measurement": "",
     "Price": "",
     "Category": "",
