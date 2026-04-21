@@ -448,6 +448,20 @@
     "Image": "https://iili.io/Br85lpt.png"
   },
   {
+    "Name": "আলুবোখারা",
+    "English_Name": "Dried Plum",
+    "Weight": "500,1000,2000,3000,4000,5000",
+    "Measurement": "Solid",
+    "Price": "",
+    "Category": "খেজুর ও শুকনো ফল",
+    "Subcategory": "",
+    "Brand": "",
+    "State": "",
+    "Tag": "",
+    "Description": "",
+    "Image": "https://iili.io/qhGGqTQ.jpg"
+  },
+  {
     "Name": "খুরমা শুকনো খেজুর (সাদা)",
     "English_Name": "Khurma Dry Dates (White)",
     "Weight": "1000,2000,3000,4000,5000,10000",
@@ -1244,20 +1258,6 @@
     "Tag": "",
     "Description": "",
     "Image": "https://iili.io/BIC3Cdv.jpg"
-  },
-  {
-    "Name": "আলুবোখারা",
-    "English_Name": "Dried Plum",
-    "Weight": "500,1000,2000,3000,4000,5000",
-    "Measurement": "Solid",
-    "Price": "",
-    "Category": "খেজুর ও শুকনো ফল",
-    "Subcategory": "",
-    "Brand": "",
-    "State": "",
-    "Tag": "",
-    "Description": "",
-    "Image": "https://iili.io/qhGGqTQ.jpg"
   },
   {
     "Name": "লম্বা কিসমিস",
