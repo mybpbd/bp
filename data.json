@@ -1,19 +1,5 @@
 [
   {
-    "Name": "কুমড়ো বীজ",
-    "English_Name": "Pumpkin Seeds",
-    "Weight": "500,1000,2000,3000,4000,5000",
-    "Measurement": "Solid",
-    "Price": "720",
-    "Category": "বাদাম ও বীজ",
-    "Subcategory": "",
-    "Brand": "",
-    "State": "",
-    "Tag": "",
-    "Description": "",
-    "Image": "https://iili.io/qNtbaV4.jpg"
-  },
-  {
     "Name": "সূর্যমুখী বীজ",
     "English_Name": "Sunflower Seeds",
     "Weight": "500,1000,2000,3000,4000,5000",
@@ -26,6 +12,20 @@
     "Tag": "",
     "Description": "",
     "Image": "https://iili.io/qNDAJ9t.png"
+  },
+  {
+    "Name": "কুমড়ো বীজ",
+    "English_Name": "Pumpkin Seeds",
+    "Weight": "500,1000,2000,3000,4000,5000",
+    "Measurement": "Solid",
+    "Price": "720",
+    "Category": "বাদাম ও বীজ",
+    "Subcategory": "",
+    "Brand": "",
+    "State": "",
+    "Tag": "",
+    "Description": "",
+    "Image": "https://iili.io/qNtbaV4.jpg"
   },
   {
     "Name": "কাজু বাদাম (ভাজা)",
