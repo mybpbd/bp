@@ -294,6 +294,34 @@
     "Image": "https://iili.io/BIndv7R.webp"
   },
   {
+    "Name": "তোকমা দানা",
+    "English_Name": "Basil Seeds",
+    "Weight": "500,1000,2000,3000,4000,5000",
+    "Measurement": "Solid",
+    "Price": "",
+    "Category": "বাদাম ও বীজ",
+    "Subcategory": "",
+    "Brand": "",
+    "State": "",
+    "Tag": "",
+    "Description": "",
+    "Image": "https://iili.io/qOE92Js.jpg"
+  },
+  {
+    "Name": "তিল (কালো)",
+    "English_Name": "Black Sesame Seeds",
+    "Weight": "500,1000,2000,3000,4000,5000",
+    "Measurement": "Solid",
+    "Price": "",
+    "Category": "বাদাম ও বীজ",
+    "Subcategory": "",
+    "Brand": "",
+    "State": "",
+    "Tag": "",
+    "Description": "",
+    "Image": "https://iili.io/qkTDh0B.jpg"
+  },
+  {
     "Name": "খেজুর (আজওয়া)",
     "English_Name": "Ajwa Dates",
     "Weight": "500,1000,2000,3000,4000,5000",
@@ -1062,34 +1090,6 @@
     "Tag": "",
     "Description": "",
     "Image": "https://iili.io/qND0xwB.webp"
-  },
-  {
-    "Name": "তোকমা দানা",
-    "English_Name": "Basil Seeds",
-    "Weight": "500,1000,2000,3000,4000,5000",
-    "Measurement": "Solid",
-    "Price": "",
-    "Category": "বাদাম ও বীজ",
-    "Subcategory": "",
-    "Brand": "",
-    "State": "",
-    "Tag": "",
-    "Description": "",
-    "Image": "https://iili.io/qOE92Js.jpg"
-  },
-  {
-    "Name": "তিল (কালো)",
-    "English_Name": "Black Sesame Seeds",
-    "Weight": "500,1000,2000,3000,4000,5000",
-    "Measurement": "Solid",
-    "Price": "",
-    "Category": "বাদাম ও বীজ",
-    "Subcategory": "",
-    "Brand": "",
-    "State": "",
-    "Tag": "",
-    "Description": "",
-    "Image": "https://iili.io/qkTDh0B.jpg"
   },
   {
     "Name": "তোকমা দানা (লাল)",
