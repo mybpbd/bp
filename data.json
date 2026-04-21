@@ -30,7 +30,7 @@
   {
     "Name": "কাজু বাদাম",
     "English_Name": "Cashew Nuts",
-    "Weight": "",
+    "Weight": "1000,2000,3000,4000,5000,10000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -44,7 +44,7 @@
   {
     "Name": "কাজু বাদাম (জাম্বু সাইজ)",
     "English_Name": "Cashew Nuts (Jumbo Size)",
-    "Weight": "",
+    "Weight": "1000,2000,3000,4000,5000,10000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -58,7 +58,7 @@
   {
     "Name": "কাজু বাদাম (ভাজা)",
     "English_Name": "Roasted Cashew Nuts",
-    "Weight": "500,1000,2000,3000,4000,5000",
+    "Weight": "1000,2000,3000,4000,5000,10000",
     "Measurement": "Solid",
     "Price": "1550",
     "Category": "বাদাম ও বীজ",
@@ -72,7 +72,7 @@
   {
     "Name": "আখরোট",
     "English_Name": "Walnut",
-    "Weight": "500,1000,2000,3000,4000,5000",
+    "Weight": "1000,2000,3000,4000,5000,10000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "বাদাম ও বীজ",
@@ -86,7 +86,7 @@
   {
     "Name": "কাঠ বাদাম",
     "English_Name": "Almond",
-    "Weight": "500,1000,2000,3000,4000,5000",
+    "Weight": "1000,2000,3000,4000,5000,10000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "বাদাম ও বীজ",
@@ -100,7 +100,7 @@
   {
     "Name": "পেস্তা বাদাম",
     "English_Name": "Pistachio Nut",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "1000,2000,3000,4000,5000,10000",
     "Measurement": "Solid",
     "Price": "400, 800, 2000, 4000, 8000, 20000",
     "Category": "সুপারফুড, বাদাম ও বীজ",
@@ -114,7 +114,7 @@
   {
     "Name": "চিয়া সিড",
     "English_Name": "Chia Seeds",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "1000,2000,3000,4000,5000,10000",
     "Measurement": "Solid",
     "Price": "45, 90, 225, 450, 900, 2250",
     "Category": "সুপারফুড",
@@ -128,7 +128,7 @@
   {
     "Name": "সাদা তিল",
     "English_Name": "White Sesame Seeds",
-    "Weight": "500,1000,2000,3000,4000,5000",
+    "Weight": "1000,2000,3000,4000,5000,10000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "বাদাম ও বীজ",
@@ -142,7 +142,7 @@
   {
     "Name": "তিসি",
     "English_Name": "Flaxseed",
-    "Weight": "500,1000,2000,3000,4000,5000",
+    "Weight": "1000,2000,3000,4000,5000,10000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "বাদাম ও বীজ",
@@ -156,7 +156,7 @@
   {
     "Name": "তোকমা দানা",
     "English_Name": "Basil Seeds",
-    "Weight": "500,1000,2000,3000,4000,5000",
+    "Weight": "1000,2000,3000,4000,5000,10000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "বাদাম ও বীজ",
@@ -170,7 +170,7 @@
   {
     "Name": "সাগু দানা",
     "English_Name": "Sago Pearls",
-    "Weight": "500,1000,2000,3000,4000,5000",
+    "Weight": "1000,2000,3000,4000,5000,10000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "বাদাম ও বীজ",
@@ -184,7 +184,7 @@
   {
     "Name": "ইসবগুলের ভুসি",
     "English_Name": "Psyllium Husk",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "1000,2000,3000,4000,5000,10000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "মশলা",
@@ -198,7 +198,7 @@
   {
     "Name": "ত্বীন ফল",
     "English_Name": "Dried Fig",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "1000,2000,3000,4000,5000,10000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "বাদাম ও বীজ",
@@ -212,7 +212,7 @@
   {
     "Name": "ইন্ডিয়ান চিনা বাদাম",
     "English_Name": "Indian Peanut",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "1000,2000,3000,4000,5000,10000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "বাদাম ও বীজ",
@@ -226,7 +226,7 @@
   {
     "Name": "থাই বাদাম",
     "English_Name": "Thai Nuts",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "1000,2000,3000,4000,5000,10000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "বাদাম ও বীজ",
@@ -240,7 +240,7 @@
   {
     "Name": "দেশী চিনা বাদাম",
     "English_Name": "Deshi Peanut",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Weight": "1000,2000,3000,4000,5000,10000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "বাদাম ও বীজ",
@@ -254,7 +254,7 @@
   {
     "Name": "বিট লবণ (দানা)",
     "English_Name": "Black Salt (Granules)",
-    "Weight": "500,1000,2000,3000,4000,5000",
+    "Weight": "1000,2000,3000,4000,5000,10000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "মশলা",
@@ -268,7 +268,7 @@
   {
     "Name": "বিট লবণ (গুঁড়া)",
     "English_Name": "Black Salt Powder",
-    "Weight": "500,1000,2000,3000,4000,5000",
+    "Weight": "1000,2000,3000,4000,5000,10000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "মশলা",
@@ -282,7 +282,7 @@
   {
     "Name": "কিসমিস",
     "English_Name": "Raisins",
-    "Weight": "500,1000,2000,3000,4000,5000",
+    "Weight": "1000,2000,3000,4000,5000,10000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "খেজুর ও শুকনো ফল",
@@ -296,7 +296,7 @@
   {
     "Name": "কালো কিসমিস",
     "English_Name": "Black Raisins",
-    "Weight": "500,1000,2000,3000,4000,5000",
+    "Weight": "1000,2000,3000,4000,5000,10000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "খেজুর ও শুকনো ফল",
@@ -310,7 +310,7 @@
   {
     "Name": "সিডলেস গোল্ডেন কিসমিস",
     "English_Name": "Seedless Golden Raisins",
-    "Weight": "500,1000,2000,3000,4000,5000",
+    "Weight": "1000,2000,3000,4000,5000,10000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "খেজুর ও শুকনো ফল",
@@ -324,7 +324,7 @@
   {
     "Name": "তোকমা দানা",
     "English_Name": "Basil Seeds",
-    "Weight": "500,1000,2000,3000,4000,5000",
+    "Weight": "1000,2000,3000,4000,5000,10000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "বাদাম ও বীজ",
@@ -338,7 +338,7 @@
   {
     "Name": "তিল (কালো)",
     "English_Name": "Black Sesame Seeds",
-    "Weight": "500,1000,2000,3000,4000,5000",
+    "Weight": "1000,2000,3000,4000,5000,10000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "বাদাম ও বীজ",
@@ -352,7 +352,7 @@
   {
     "Name": "খুরমা শুকনো খেজুর (সাদা)",
     "English_Name": "Khurma Dry Dates (White)",
-    "Weight": "",
+    "Weight": "1000,2000,3000,4000,5000,10000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -366,7 +366,7 @@
   {
     "Name": "খুরমা শুকনো খেজুর (কালো)",
     "English_Name": "Khurma Dry Dates (Black)",
-    "Weight": "",
+    "Weight": "1000,2000,3000,4000,5000,10000",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -380,7 +380,7 @@
   {
     "Name": "খেজুর (আজওয়া)",
     "English_Name": "Ajwa Dates",
-    "Weight": "500,1000,2000,3000,4000,5000",
+    "Weight": "1000,2000,3000,4000,5000,10000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "খেজুর ও শুকনো ফল",
@@ -394,7 +394,7 @@
   {
     "Name": "খেজুর (মরিয়ম)",
     "English_Name": "Mariam/Mabroom Dates",
-    "Weight": "500,1000,2000,3000,4000,5000",
+    "Weight": "1000,2000,3000,4000,5000,10000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "খেজুর ও শুকনো ফল",
@@ -408,7 +408,7 @@
   {
     "Name": "খেজুর (মেদজুল)",
     "English_Name": "Medjool Dates",
-    "Weight": "500,1000,2000,3000,4000,5000",
+    "Weight": "1000,2000,3000,4000,5000,10000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "খেজুর ও শুকনো ফল",
@@ -422,7 +422,7 @@
   {
     "Name": "খেজুর (আম্বার)",
     "English_Name": "Amber Dates",
-    "Weight": "500,1000,2000,3000,4000,5000",
+    "Weight": "1000,2000,3000,4000,5000,10000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "খেজুর ও শুকনো ফল",
@@ -436,7 +436,7 @@
   {
     "Name": "খেজুর (জাহেদী)",
     "English_Name": "Zahedi Dates",
-    "Weight": "500,1000,2000,3000,4000,5000",
+    "Weight": "1000,2000,3000,4000,5000,10000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "খেজুর ও শুকনো ফল",
@@ -450,7 +450,7 @@
   {
     "Name": "খেজুর (সুকারী)",
     "English_Name": "Sukkari Dates",
-    "Weight": "500,1000,2000,3000,4000,5000",
+    "Weight": "1000,2000,3000,4000,5000,10000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "খেজুর ও শুকনো ফল",
@@ -464,7 +464,7 @@
   {
     "Name": "খেজুর (দাবাস)",
     "English_Name": "Dabbas Dates",
-    "Weight": "500,1000,2000,3000,4000,5000",
+    "Weight": "1000,2000,3000,4000,5000,10000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "খেজুর ও শুকনো ফল",
@@ -478,7 +478,7 @@
   {
     "Name": "খোরমা খেজুর",
     "English_Name": "Dry Dates (Chuara)",
-    "Weight": "500,1000,2000,3000,4000,5000",
+    "Weight": "1000,2000,3000,4000,5000,10000",
     "Measurement": "Solid",
     "Price": "",
     "Category": "খেজুর ও শুকনো ফল",
