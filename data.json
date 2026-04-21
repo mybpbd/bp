@@ -924,6 +924,34 @@
     "Image": "https://iili.io/BfDtbIe.jpg"
   },
   {
+    "Name": "লাল চিনি",
+    "English_Name": "Brown Sugar",
+    "Weight": "500,1000,2000,3000,4000,5000",
+    "Measurement": "Solid",
+    "Price": "90, 180, 360, 540, 720, 900",
+    "Category": "গুড় ও চিনি",
+    "Subcategory": "",
+    "Brand": "",
+    "State": "",
+    "Tag": "",
+    "Description": "",
+    "Image": "https://iili.io/BfnjYjR.jpg"
+  },
+  {
+    "Name": "গাওয়া ঘি",
+    "English_Name": "Cow Ghee",
+    "Weight": "500,1000,2000,3000,4000,5000",
+    "Measurement": "Solid",
+    "Price": "620, 1240, 2480, 3720, 4960, 6200",
+    "Category": "মিষ্টিজাত ও দুগ্ধজাত পণ্য",
+    "Subcategory": "",
+    "Brand": "",
+    "State": "",
+    "Tag": "",
+    "Description": "",
+    "Image": "https://iili.io/BKbZCaj.png"
+  },
+  {
     "Name": "খেজুরের গুড় (পাটালি)",
     "English_Name": "Date Palm Jaggery Blocks (Patali Gur)",
     "Weight": "500,1000,2000,3000,4000,5000",
@@ -1006,34 +1034,6 @@
     "Tag": "",
     "Description": "",
     "Image": "https://iili.io/BfnI7vs.jpg"
-  },
-  {
-    "Name": "লাল চিনি",
-    "English_Name": "Brown Sugar",
-    "Weight": "500,1000,2000,3000,4000,5000",
-    "Measurement": "Solid",
-    "Price": "90, 180, 360, 540, 720, 900",
-    "Category": "গুড় ও চিনি",
-    "Subcategory": "",
-    "Brand": "",
-    "State": "",
-    "Tag": "",
-    "Description": "",
-    "Image": "https://iili.io/BfnjYjR.jpg"
-  },
-  {
-    "Name": "গাওয়া ঘি",
-    "English_Name": "Cow Ghee",
-    "Weight": "500,1000,2000,3000,4000,5000",
-    "Measurement": "Solid",
-    "Price": "620, 1240, 2480, 3720, 4960, 6200",
-    "Category": "মিষ্টিজাত ও দুগ্ধজাত পণ্য",
-    "Subcategory": "",
-    "Brand": "",
-    "State": "",
-    "Tag": "",
-    "Description": "",
-    "Image": "https://iili.io/BKbZCaj.png"
   },
   {
     "Name": "মাকাডামিয়া বাদাম",
