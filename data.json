@@ -210,6 +210,20 @@
     "Image": "https://iili.io/qjtZDo7.jpg"
   },
   {
+    "Name": "তিল (কালো)",
+    "English_Name": "Black Sesame Seeds",
+    "Weight": "1000,2000,3000,4000,5000,10000",
+    "Measurement": "Solid",
+    "Price": "",
+    "Category": "বাদাম ও বীজ",
+    "Subcategory": "",
+    "Brand": "",
+    "State": "",
+    "Tag": "",
+    "Description": "",
+    "Image": "https://iili.io/qkTDh0B.jpg"
+  },
+  {
     "Name": "তিসি",
     "English_Name": "Flaxseed",
     "Weight": "1000,2000,3000,4000,5000,10000",
@@ -362,20 +376,6 @@
     "Tag": "",
     "Description": "",
     "Image": "https://iili.io/qOE92Js.jpg"
-  },
-  {
-    "Name": "তিল (কালো)",
-    "English_Name": "Black Sesame Seeds",
-    "Weight": "1000,2000,3000,4000,5000,10000",
-    "Measurement": "Solid",
-    "Price": "",
-    "Category": "বাদাম ও বীজ",
-    "Subcategory": "",
-    "Brand": "",
-    "State": "",
-    "Tag": "",
-    "Description": "",
-    "Image": "https://iili.io/qkTDh0B.jpg"
   },
   {
     "Name": "খুরমা শুকনো খেজুর (সাদা)",
