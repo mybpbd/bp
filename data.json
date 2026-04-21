@@ -196,6 +196,34 @@
     "Image": ""
   },
   {
+    "Name": "থাই বাদাম",
+    "English_Name": "Thai Nuts",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Measurement": "Solid",
+    "Price": "",
+    "Category": "বাদাম ও বীজ",
+    "Subcategory": "",
+    "Brand": "",
+    "State": "",
+    "Tag": "",
+    "Description": "",
+    "Image": ""
+  },
+  {
+    "Name": "দেশী চিনা বাদাম",
+    "English_Name": "Deshi Peanut",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Measurement": "Solid",
+    "Price": "",
+    "Category": "বাদাম ও বীজ",
+    "Subcategory": "",
+    "Brand": "",
+    "State": "",
+    "Tag": "",
+    "Description": "",
+    "Image": ""
+  },
+  {
     "Name": "সুন্দরবনের প্রাকৃতিক চাকের মিশ্র ফুলের র মধু",
     "English_Name": "Sundarban Natural Mixed Flower Raw Honey",
     "Weight": "500,1000,2000,3000,4000,5000",
@@ -2938,34 +2966,6 @@
     "Tag": "",
     "Description": "",
     "Image": "https://iili.io/Buo9y5G.jpg"
-  },
-  {
-    "Name": "থাই বাদাম",
-    "English_Name": "Thai Nuts",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
-    "Measurement": "Solid",
-    "Price": "",
-    "Category": "বাদাম ও বীজ",
-    "Subcategory": "",
-    "Brand": "",
-    "State": "",
-    "Tag": "",
-    "Description": "",
-    "Image": ""
-  },
-  {
-    "Name": "দেশী চিনা বাদাম",
-    "English_Name": "Deshi Peanut",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
-    "Measurement": "Solid",
-    "Price": "",
-    "Category": "বাদাম ও বীজ",
-    "Subcategory": "",
-    "Brand": "",
-    "State": "",
-    "Tag": "",
-    "Description": "",
-    "Image": ""
   },
   {
     "Name": "রাঁধুনি",
