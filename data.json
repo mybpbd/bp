@@ -126,6 +126,20 @@
     "Image": ""
   },
   {
+    "Name": "দেশী চিনা বাদাম",
+    "English_Name": "Deshi Peanut",
+    "Weight": "1000,2000,3000,4000,5000,10000",
+    "Measurement": "Solid",
+    "Price": "",
+    "Category": "বাদাম ও বীজ",
+    "Subcategory": "",
+    "Brand": "",
+    "State": "",
+    "Tag": "",
+    "Description": "",
+    "Image": ""
+  },
+  {
     "Name": "চিয়া সিড",
     "English_Name": "Chia Seeds",
     "Weight": "1000,2000,3000,4000,5000,10000",
@@ -226,20 +240,6 @@
   {
     "Name": "থাই বাদাম",
     "English_Name": "Thai Nuts",
-    "Weight": "1000,2000,3000,4000,5000,10000",
-    "Measurement": "Solid",
-    "Price": "",
-    "Category": "বাদাম ও বীজ",
-    "Subcategory": "",
-    "Brand": "",
-    "State": "",
-    "Tag": "",
-    "Description": "",
-    "Image": ""
-  },
-  {
-    "Name": "দেশী চিনা বাদাম",
-    "English_Name": "Deshi Peanut",
     "Weight": "1000,2000,3000,4000,5000,10000",
     "Measurement": "Solid",
     "Price": "",
