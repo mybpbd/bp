@@ -1134,6 +1134,20 @@
     "Image": "https://iili.io/qwCZvnV.jpg"
   },
   {
+    "Name": "লাল চাল",
+    "English_Name": "Lal Chal",
+    "Weight": "500,1000,2000,5000,10000,25000",
+    "Measurement": "Solid",
+    "Price": "",
+    "Category": "সুপারফুড",
+    "Subcategory": "",
+    "Brand": "",
+    "State": "",
+    "Tag": "",
+    "Description": "",
+    "Image": "https://iili.io/Buo9y5G.jpg"
+  },
+  {
     "Name": "মাকাডামিয়া বাদাম",
     "English_Name": "Macadamia Nut",
     "Weight": "500,1000,2000,3000,4000,5000",
@@ -3036,20 +3050,6 @@
     "Tag": "",
     "Description": "",
     "Image": "https://iili.io/BunqD6Q.jpg"
-  },
-  {
-    "Name": "লাল চাল",
-    "English_Name": "Lal Chal",
-    "Weight": "500,1000,2000,5000,10000,25000",
-    "Measurement": "Solid",
-    "Price": "",
-    "Category": "সুপারফুড",
-    "Subcategory": "",
-    "Brand": "",
-    "State": "",
-    "Tag": "",
-    "Description": "",
-    "Image": "https://iili.io/Buo9y5G.jpg"
   },
   {
     "Name": "রাঁধুনি",
