@@ -1176,6 +1176,20 @@
     "Image": "https://iili.io/qjgxCOv.jpg"
   },
   {
+    "Name": "চুই ঝাল",
+    "English_Name": "Chui Jhal",
+    "Weight": "500,1000,2000,3000,4000,5000",
+    "Measurement": "Solid",
+    "Price": "",
+    "Category": "মশলা",
+    "Subcategory": "",
+    "Brand": "",
+    "State": "",
+    "Tag": "",
+    "Description": "",
+    "Image": "https://iili.io/BdTN7Gp.webp"
+  },
+  {
     "Name": "মাকাডামিয়া বাদাম",
     "English_Name": "Macadamia Nut",
     "Weight": "500,1000,2000,3000,4000,5000",
@@ -2798,20 +2812,6 @@
     "Tag": "",
     "Description": "",
     "Image": "https://iili.io/BTZsKkG.jpg"
-  },
-  {
-    "Name": "চুই ঝাল",
-    "English_Name": "Chui Jhal",
-    "Weight": "500,1000,2000,3000,4000,5000",
-    "Measurement": "Solid",
-    "Price": "",
-    "Category": "মশলা",
-    "Subcategory": "",
-    "Brand": "",
-    "State": "",
-    "Tag": "",
-    "Description": "",
-    "Image": "https://iili.io/BdTN7Gp.webp"
   },
   {
     "Name": "কিনোয়া",
