@@ -1246,6 +1246,20 @@
     "Image": "https://iili.io/qhEtCs2.jpg"
   },
   {
+    "Name": "লবঙ্গ গুঁড়া",
+    "English_Name": "Clove Powder",
+    "Weight": "500,1000,2000,3000,4000,5000",
+    "Measurement": "Solid",
+    "Price": "",
+    "Category": "মশলা",
+    "Subcategory": "",
+    "Brand": "",
+    "State": "",
+    "Tag": "",
+    "Description": "",
+    "Image": "https://iili.io/qw01eM7.jpg"
+  },
+  {
     "Name": "মেথি",
     "English_Name": "Fenugreek",
     "Weight": "500,1000,2000,3000,4000,5000",
@@ -2364,20 +2378,6 @@
     "Tag": "",
     "Description": "",
     "Image": "https://iili.io/qw05jqb.jpg"
-  },
-  {
-    "Name": "লবঙ্গ গুঁড়া",
-    "English_Name": "Clove Powder",
-    "Weight": "500,1000,2000,3000,4000,5000",
-    "Measurement": "Solid",
-    "Price": "",
-    "Category": "মশলা",
-    "Subcategory": "",
-    "Brand": "",
-    "State": "",
-    "Tag": "",
-    "Description": "",
-    "Image": "https://iili.io/qw01eM7.jpg"
   },
   {
     "Name": "আদা বাটা",
