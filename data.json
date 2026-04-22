@@ -1260,6 +1260,20 @@
     "Image": "https://iili.io/qh0VGSf.jpg"
   },
   {
+    "Name": "কালোজিরা",
+    "English_Name": "Black Cumin",
+    "Weight": "500,1000,2000,3000,4000,5000",
+    "Measurement": "Solid",
+    "Price": "",
+    "Category": "মশলা",
+    "Subcategory": "",
+    "Brand": "",
+    "State": "",
+    "Tag": "",
+    "Description": "",
+    "Image": "https://iili.io/qj4vXiG.jpg"
+  },
+  {
     "Name": "মনাক্কা",
     "English_Name": "Munakka (Large Raisins)",
     "Weight": "500,1000,2000,3000,4000,5000",
@@ -1846,20 +1860,6 @@
     "Tag": "",
     "Description": "",
     "Image": "https://iili.io/qhMNPf4.jpg"
-  },
-  {
-    "Name": "কালোজিরা",
-    "English_Name": "Black Cumin",
-    "Weight": "500,1000,2000,3000,4000,5000",
-    "Measurement": "Solid",
-    "Price": "",
-    "Category": "মশলা",
-    "Subcategory": "",
-    "Brand": "",
-    "State": "",
-    "Tag": "",
-    "Description": "",
-    "Image": "https://iili.io/qj4vXiG.jpg"
   },
   {
     "Name": "সাদা সরিষা",
