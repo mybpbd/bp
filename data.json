@@ -1332,8 +1332,8 @@
   {
     "Name": "আমলকি (গুড়া)",
     "English_Name": "Amalaki Powder",
-    "Weight": "",
-    "Measurement": "",
+    "Weight": "1000,2000,3000,4000,5000,100",
+    "Measurement": "Solid",
     "Price": "",
     "Category": "",
     "Subcategory": "",
@@ -1360,8 +1360,8 @@
   {
     "Name": "হরতকী (গুড়া)",
     "English_Name": "",
-    "Weight": "",
-    "Measurement": "",
+    "Weight": "1000,2000,3000,4000,5000,100",
+    "Measurement": "Solid",
     "Price": "",
     "Category": "",
     "Subcategory": "",
