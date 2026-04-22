@@ -1318,8 +1318,8 @@
   {
     "Name": "আমলকি (শুকনো)",
     "English_Name": "Dried Amalaki",
-    "Weight": "",
-    "Measurement": "",
+    "Weight": "1000,2000,3000,4000,5000,100",
+    "Measurement": "Solid",
     "Price": "",
     "Category": "",
     "Subcategory": "",
