@@ -309,9 +309,9 @@
   },
   {
     "Name": "সাগু দানা",
-    "English_Name": "Sago Pearls",
-    "Weight": "",
-    "Measurement": "",
+    "English_Name": "Sago Pearls (Indian)",
+    "Weight": "1000,2000,3000,4000,5000,100",
+    "Measurement": "Solid",
     "Price": "",
     "Category": "",
     "Subcategory": "",
