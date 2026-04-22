@@ -1204,6 +1204,20 @@
     "Image": "https://iili.io/qhuKV2a.jpg"
   },
   {
+    "Name": "লবঙ্গ",
+    "English_Name": "Cloves",
+    "Weight": "500,1000,2000,3000,4000,5000",
+    "Measurement": "Solid",
+    "Price": "",
+    "Category": "মশলা",
+    "Subcategory": "",
+    "Brand": "",
+    "State": "",
+    "Tag": "",
+    "Description": "",
+    "Image": "https://iili.io/qhEtCs2.jpg"
+  },
+  {
     "Name": "মাকাডামিয়া বাদাম",
     "English_Name": "Macadamia Nut",
     "Weight": "500,1000,2000,3000,4000,5000",
@@ -1888,20 +1902,6 @@
     "Tag": "",
     "Description": "",
     "Image": "https://iili.io/qhEUvBs.jpg"
-  },
-  {
-    "Name": "লবঙ্গ",
-    "English_Name": "Cloves",
-    "Weight": "500,1000,2000,3000,4000,5000",
-    "Measurement": "Solid",
-    "Price": "",
-    "Category": "মশলা",
-    "Subcategory": "",
-    "Brand": "",
-    "State": "",
-    "Tag": "",
-    "Description": "",
-    "Image": "https://iili.io/qhEtCs2.jpg"
   },
   {
     "Name": "স্টার মশলা",
