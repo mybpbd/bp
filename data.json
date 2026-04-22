@@ -1234,7 +1234,7 @@
   {
     "Name": "লবঙ্গ",
     "English_Name": "Cloves",
-    "Weight": "500,1000,2000,3000,4000,5000",
+    "Weight": "1000,2000,3000,4000,5000,100",
     "Measurement": "Solid",
     "Price": "",
     "Category": "মশলা, \"আস্ত ভেষজ, মূল ও ছাল\"",
@@ -1248,7 +1248,7 @@
   {
     "Name": "লবঙ্গ গুঁড়া",
     "English_Name": "Clove Powder",
-    "Weight": "500,1000,2000,3000,4000,5000",
+    "Weight": "1000,2000,3000,4000,5000,100",
     "Measurement": "Solid",
     "Price": "",
     "Category": "মশলা, ভেষজ গুঁড়া ও সাপ্লিমেন্ট",
@@ -1262,7 +1262,7 @@
   {
     "Name": "মেথি",
     "English_Name": "Fenugreek",
-    "Weight": "500,1000,2000,3000,4000,5000",
+    "Weight": "1000,2000,3000,4000,5000,100",
     "Measurement": "Solid",
     "Price": "",
     "Category": "মশলা, \"আস্ত ভেষজ, মূল ও ছাল\"",
@@ -1276,7 +1276,7 @@
   {
     "Name": "কালোজিরা",
     "English_Name": "Black Cumin",
-    "Weight": "500,1000,2000,3000,4000,5000",
+    "Weight": "1000,2000,3000,4000,5000,100",
     "Measurement": "Solid",
     "Price": "",
     "Category": "মশলা, \"আস্ত ভেষজ, মূল ও ছাল\"",
@@ -1290,7 +1290,7 @@
   {
     "Name": "ত্রিফল",
     "English_Name": "Triphala",
-    "Weight": "500,1000,2000,3000,4000,5000",
+    "Weight": "1000,2000,3000,4000,5000,100",
     "Measurement": "Solid",
     "Price": "",
     "Category": "\"আস্ত ভেষজ, মূল ও ছাল\"",
@@ -1304,7 +1304,7 @@
   {
     "Name": "ত্রিফলা গুড়া",
     "English_Name": "Triphala Powder",
-    "Weight": "500,1000,2000,3000,4000,5000",
+    "Weight": "1000,2000,3000,4000,5000,100",
     "Measurement": "Solid",
     "Price": "",
     "Category": "ভেষজ গুঁড়া ও সাপ্লিমেন্ট",
