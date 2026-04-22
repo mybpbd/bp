@@ -380,7 +380,7 @@
   {
     "Name": "বিট লবণ (দানা)",
     "English_Name": "Black Salt (Granules)",
-    "Weight": "1000,2000,3000,4000,5000,10000",
+    "Weight": "1000,2000,3000,4000,5000,100",
     "Measurement": "Solid",
     "Price": "200, 400, 600, 800, 1000, 2000",
     "Category": "মশলা",
