@@ -1148,6 +1148,34 @@
     "Image": "https://iili.io/Buo9y5G.jpg"
   },
   {
+    "Name": "লাল চিড়া",
+    "English_Name": "Red Flattened Rice",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Measurement": "Solid",
+    "Price": "",
+    "Category": "সুপারফুড",
+    "Subcategory": "",
+    "Brand": "",
+    "State": "",
+    "Tag": "",
+    "Description": "",
+    "Image": "https://iili.io/qhVEo7a.jpg"
+  },
+  {
+    "Name": "লাল মুড়ি",
+    "English_Name": "Red Puffed Rice",
+    "Weight": "100, 200, 500, 1000, 2000, 5000",
+    "Measurement": "Solid",
+    "Price": "",
+    "Category": "সুপারফুড",
+    "Subcategory": "",
+    "Brand": "",
+    "State": "",
+    "Tag": "",
+    "Description": "",
+    "Image": "https://iili.io/qjgxCOv.jpg"
+  },
+  {
     "Name": "মাকাডামিয়া বাদাম",
     "English_Name": "Macadamia Nut",
     "Weight": "500,1000,2000,3000,4000,5000",
@@ -2910,34 +2938,6 @@
     "Tag": "",
     "Description": "",
     "Image": "https://iili.io/qhcNyRj.jpg"
-  },
-  {
-    "Name": "লাল চিড়া",
-    "English_Name": "Red Flattened Rice",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
-    "Measurement": "Solid",
-    "Price": "",
-    "Category": "সুপারফুড",
-    "Subcategory": "",
-    "Brand": "",
-    "State": "",
-    "Tag": "",
-    "Description": "",
-    "Image": "https://iili.io/qhVEo7a.jpg"
-  },
-  {
-    "Name": "লাল মুড়ি",
-    "English_Name": "Red Puffed Rice",
-    "Weight": "100, 200, 500, 1000, 2000, 5000",
-    "Measurement": "Solid",
-    "Price": "",
-    "Category": "সুপারফুড",
-    "Subcategory": "",
-    "Brand": "",
-    "State": "",
-    "Tag": "",
-    "Description": "",
-    "Image": "https://iili.io/qjgxCOv.jpg"
   },
   {
     "Name": "মাকা রুট পাউডার",
