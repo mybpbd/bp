@@ -1204,6 +1204,20 @@
     "Image": "https://iili.io/qhuKV2a.jpg"
   },
   {
+    "Name": "কাউন",
+    "English_Name": "Millet",
+    "Weight": "500,1000,2000,3000,4000,5000",
+    "Measurement": "Solid",
+    "Price": "",
+    "Category": "সুপারফুড",
+    "Subcategory": "",
+    "Brand": "",
+    "State": "",
+    "Tag": "",
+    "Description": "",
+    "Image": "https://iili.io/BunqD6Q.jpg"
+  },
+  {
     "Name": "লবঙ্গ",
     "English_Name": "Cloves",
     "Weight": "500,1000,2000,3000,4000,5000",
@@ -3036,20 +3050,6 @@
     "Tag": "",
     "Description": "",
     "Image": "https://iili.io/qORzDDx.jpg"
-  },
-  {
-    "Name": "কাউন",
-    "English_Name": "Millet",
-    "Weight": "500,1000,2000,3000,4000,5000",
-    "Measurement": "Solid",
-    "Price": "",
-    "Category": "সুপারফুড",
-    "Subcategory": "",
-    "Brand": "",
-    "State": "",
-    "Tag": "",
-    "Description": "",
-    "Image": "https://iili.io/BunqD6Q.jpg"
   },
   {
     "Name": "রাঁধুনি",
