@@ -1146,5 +1146,19 @@
     "Tag": "",
     "Description": "",
     "Image": "https://iili.io/B49wMxt.jpg"
+  },
+  {
+    "Name": "ওটস",
+    "English_Name": "Oats",
+    "Weight": "1000,5000,10000,500,250,100",
+    "Measurement": "Solid",
+    "Price": "",
+    "Category": "সুপারফুড",
+    "Subcategory": "",
+    "Brand": "",
+    "State": "",
+    "Tag": "",
+    "Description": "",
+    "Image": "https://iili.io/B4yHUF4.jpg"
   }
 ]
