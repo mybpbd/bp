@@ -1288,20 +1288,6 @@
     "Image": "https://iili.io/BL0nnMF.jpg"
   },
   {
-    "Name": "কালো রাজমা",
-    "English_Name": "Black Kidney Beans",
-    "Weight": "1000,5000,10000,500,250,100",
-    "Measurement": "Solid",
-    "Price": "",
-    "Category": "",
-    "Subcategory": "",
-    "Brand": "",
-    "State": "",
-    "Tag": "",
-    "Description": "",
-    "Image": "https://iili.io/BLlbQpf.jpg"
-  },
-  {
     "Name": "সাদা রাজমা",
     "English_Name": "White kidney beans",
     "Weight": "1000,5000,10000,500,250,100",
@@ -1314,6 +1300,20 @@
     "Tag": "",
     "Description": "",
     "Image": "https://iili.io/BLlyAsp.jpg"
+  },
+  {
+    "Name": "কালো রাজমা",
+    "English_Name": "Black Kidney Beans",
+    "Weight": "1000,5000,10000,500,250,100",
+    "Measurement": "Solid",
+    "Price": "",
+    "Category": "",
+    "Subcategory": "",
+    "Brand": "",
+    "State": "",
+    "Tag": "",
+    "Description": "",
+    "Image": "https://iili.io/BLlbQpf.jpg"
   },
   {
     "Name": "চিকন লাল চাল",
