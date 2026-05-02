@@ -1500,8 +1500,8 @@
   {
     "Name": "আতপ চালের গুঁড়া",
     "English_Name": "Atop Chaler Gura",
-    "Weight": "",
-    "Measurement": "",
+    "Weight": "1000,5000,10000,500,250,100",
+    "Measurement": "Solid",
     "Price": "",
     "Category": "",
     "Subcategory": "",
@@ -1514,8 +1514,8 @@
   {
     "Name": "লাল আটা",
     "English_Name": "Whole Wheat Flour",
-    "Weight": "",
-    "Measurement": "",
+    "Weight": "1000,5000,10000,500,250,100",
+    "Measurement": "Solid",
     "Price": "",
     "Category": "",
     "Subcategory": "",
@@ -1528,8 +1528,8 @@
   {
     "Name": "আটা",
     "English_Name": "Wheat Flour",
-    "Weight": "",
-    "Measurement": "",
+    "Weight": "1000,5000,10000,500,250,100",
+    "Measurement": "Solid",
     "Price": "",
     "Category": "",
     "Subcategory": "",
