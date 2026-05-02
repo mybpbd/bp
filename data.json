@@ -1486,8 +1486,8 @@
   {
     "Name": "নারিকেল কোরানো",
     "English_Name": "Grated Coconut",
-    "Weight": "",
-    "Measurement": "",
+    "Weight": "1000,5000,10000,500,250,100",
+    "Measurement": "Solid",
     "Price": "",
     "Category": "সুপারফুড",
     "Subcategory": "",
@@ -1500,8 +1500,8 @@
   {
     "Name": "নারিকেল স্লাইস",
     "English_Name": "Coconut Slices",
-    "Weight": "",
-    "Measurement": "",
+    "Weight": "1000,5000,10000,500,250,100",
+    "Measurement": "Solid",
     "Price": "",
     "Category": "সুপারফুড",
     "Subcategory": "",
