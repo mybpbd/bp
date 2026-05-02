@@ -1304,7 +1304,7 @@
   {
     "Name": "লাল রাজমা",
     "English_Name": "Red kidney beans",
-    "Weight": "",
+    "Weight": "1000,5000,10000,500,250,100",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -1318,7 +1318,7 @@
   {
     "Name": "চিকন লাল চাল",
     "English_Name": "Fine red rice (thin-grain red rice)",
-    "Weight": "",
+    "Weight": "1000,5000,10000,500,250,100",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -1332,7 +1332,7 @@
   {
     "Name": "লাল চাল",
     "English_Name": "Red rice",
-    "Weight": "",
+    "Weight": "1000,5000,10000,500,250,100",
     "Measurement": "",
     "Price": "",
     "Category": "",
