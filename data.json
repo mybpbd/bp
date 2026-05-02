@@ -1220,7 +1220,7 @@
   {
     "Name": "মরিচ গুঁড়া",
     "English_Name": "Chili powder",
-    "Weight": "",
+    "Weight": "1000,5000,10000,500,250,100",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -1234,7 +1234,7 @@
   {
     "Name": "ধনিয়া গুঁড়া",
     "English_Name": "Coriander powder",
-    "Weight": "",
+    "Weight": "1000,5000,10000,500,250,100",
     "Measurement": "",
     "Price": "",
     "Category": "",
