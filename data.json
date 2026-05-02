@@ -1542,8 +1542,8 @@
   {
     "Name": "লাল ধানের খই",
     "English_Name": "Popped Paddy",
-    "Weight": "",
-    "Measurement": "",
+    "Weight": "1000,5000,10000,500,250,100",
+    "Measurement": "Solid",
     "Price": "",
     "Category": "\"চাল, ডাল ও শস্য\"",
     "Subcategory": "",
