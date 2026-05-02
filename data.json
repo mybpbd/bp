@@ -1344,6 +1344,34 @@
     "Image": "https://iili.io/BL0dkFV.jpg"
   },
   {
+    "Name": "চিকন লাল চাল",
+    "English_Name": "Red Rice (Thin)",
+    "Weight": "1000,5000,10000,500,250,100",
+    "Measurement": "Solid",
+    "Price": "",
+    "Category": "সুপারফুড, \"চাল, ডাল ও শস্য\"",
+    "Subcategory": "",
+    "Brand": "",
+    "State": "",
+    "Tag": "",
+    "Description": "",
+    "Image": "https://iili.io/BL0Jzmu.jpg"
+  },
+  {
+    "Name": "লাল চাল",
+    "English_Name": "Red Rice",
+    "Weight": "1000,5000,10000,500,250,100",
+    "Measurement": "Solid",
+    "Price": "",
+    "Category": "সুপারফুড, \"চাল, ডাল ও শস্য\"",
+    "Subcategory": "",
+    "Brand": "",
+    "State": "",
+    "Tag": "",
+    "Description": "",
+    "Image": "https://iili.io/BL0dkFV.jpg"
+  },
+  {
     "Name": "মাখনা",
     "English_Name": "Fox Nuts",
     "Weight": "1000,5000,10000,500,250,100",
@@ -1398,33 +1426,5 @@
     "Tag": "",
     "Description": "",
     "Image": "https://iili.io/BL0IV19.jpg"
-  },
-  {
-    "Name": "চিকন লাল চাল",
-    "English_Name": "Red Rice (Thin)",
-    "Weight": "1000,5000,10000,500,250,100",
-    "Measurement": "Solid",
-    "Price": "",
-    "Category": "সুপারফুড, \"চাল, ডাল ও শস্য\"",
-    "Subcategory": "",
-    "Brand": "",
-    "State": "",
-    "Tag": "",
-    "Description": "",
-    "Image": "https://iili.io/BL0Jzmu.jpg"
-  },
-  {
-    "Name": "লাল চাল",
-    "English_Name": "Red Rice",
-    "Weight": "1000,5000,10000,500,250,100",
-    "Measurement": "Solid",
-    "Price": "",
-    "Category": "সুপারফুড, \"চাল, ডাল ও শস্য\"",
-    "Subcategory": "",
-    "Brand": "",
-    "State": "",
-    "Tag": "",
-    "Description": "",
-    "Image": "https://iili.io/BL0dkFV.jpg"
   }
 ]
