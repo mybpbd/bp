@@ -1302,6 +1302,20 @@
     "Image": "https://iili.io/BLlyAsp.jpg"
   },
   {
+    "Name": "লাল রাজমা",
+    "English_Name": "Red kidney beans",
+    "Weight": "",
+    "Measurement": "",
+    "Price": "",
+    "Category": "",
+    "Subcategory": "",
+    "Brand": "",
+    "State": "",
+    "Tag": "",
+    "Description": "",
+    "Image": "https://iili.io/BL0nnMF.jpg"
+  },
+  {
     "Name": "চিকন লাল চাল",
     "English_Name": "Fine red rice (thin-grain red rice)",
     "Weight": "",
@@ -1356,19 +1370,5 @@
     "Tag": "",
     "Description": "",
     "Image": "https://iili.io/BL0ffqb.jpg"
-  },
-  {
-    "Name": "লাল রাজমা",
-    "English_Name": "Red kidney beans",
-    "Weight": "",
-    "Measurement": "",
-    "Price": "",
-    "Category": "",
-    "Subcategory": "",
-    "Brand": "",
-    "State": "",
-    "Tag": "",
-    "Description": "",
-    "Image": "https://iili.io/BL0nnMF.jpg"
   }
 ]
