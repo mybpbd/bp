@@ -1262,7 +1262,7 @@
   {
     "Name": "মেথি গুঁড়া",
     "English_Name": "Fenugreek powder",
-    "Weight": "",
+    "Weight": "1000,5000,10000,500,250,100",
     "Measurement": "",
     "Price": "",
     "Category": "",
@@ -1276,7 +1276,7 @@
   {
     "Name": "কালো রাজমা",
     "English_Name": "Black kidney beans",
-    "Weight": "",
+    "Weight": "1000,5000,10000,500,250,100",
     "Measurement": "",
     "Price": "",
     "Category": "",
