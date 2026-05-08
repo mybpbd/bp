@@ -1344,20 +1344,6 @@
     "Image": "https://iili.io/BL0IV19.jpg"
   },
   {
-    "Name": "মেথি",
-    "English_Name": "Fenugreek",
-    "Weight": "1000,5000,10000,500,250,100",
-    "Measurement": "Solid",
-    "Price": "350, 1750, 3500, 177, 90, 37",
-    "Category": "\"আস্ত ভেষজ, মূল ও ছাল\"",
-    "Subcategory": "",
-    "Brand": "",
-    "State": "",
-    "Tag": "",
-    "Description": "",
-    "Image": "https://iili.io/BPebLNf.jpg"
-  },
-  {
     "Name": "মেথি গুঁড়া",
     "English_Name": "Fenugreek Powder",
     "Weight": "1000,5000,10000,500,250,100",
@@ -1698,14 +1684,14 @@
     "English_Name": "Fenugreek",
     "Weight": "1000,5000,10000,500,250,100",
     "Measurement": "Solid",
-    "Price": "",
-    "Category": "",
+    "Price": "350, 1750, 3500, 177, 90, 37",
+    "Category": "\"আস্ত ভেষজ, মূল ও ছাল\"",
     "Subcategory": "",
     "Brand": "",
     "State": "",
     "Tag": "",
     "Description": "",
-    "Image": ""
+    "Image": "https://iili.io/BPebLNf.jpg"
   },
   {
     "Name": "কালোজিরা",
