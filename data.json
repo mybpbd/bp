@@ -1822,7 +1822,7 @@
   {
     "Name": "ড্রাইড ম্যাঙ্গো",
     "English_Name": "Dried Mango",
-    "Weight": "1000,5000",
+    "Weight": "1000,500",
     "Measurement": "Solid",
     "Price": "1490, 780",
     "Category": "খেজুর ও শুকনো ফল",
@@ -1836,7 +1836,7 @@
   {
     "Name": "ড্রাইড রক মেলন",
     "English_Name": "Dried Rock Melon",
-    "Weight": "1000,5000",
+    "Weight": "1000,500",
     "Measurement": "Solid",
     "Price": "1590, 880",
     "Category": "খেজুর ও শুকনো ফল",
