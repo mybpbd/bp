@@ -1540,20 +1540,6 @@
     "Image": ""
   },
   {
-    "Name": "গরম মশলা",
-    "English_Name": "Garam Masala",
-    "Weight": "1000,5000,10000,500,250,100",
-    "Measurement": "Solid",
-    "Price": "",
-    "Category": "মশলা",
-    "Subcategory": "",
-    "Brand": "",
-    "State": "",
-    "Tag": "",
-    "Description": "",
-    "Image": ""
-  },
-  {
     "Name": "তেজপাতা",
     "English_Name": "Bay Leaf",
     "Weight": "1000,5000,10000,500,250,100",
