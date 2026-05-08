@@ -1372,20 +1372,6 @@
     "Image": "https://iili.io/BLlt4ZN.webp"
   },
   {
-    "Name": "হলুদ গুঁড়া",
-    "English_Name": "Turmeric Powder",
-    "Weight": "1000,5000,10000,500,250,100",
-    "Measurement": "Solid",
-    "Price": "500, 2500, 5000, 253, 128, 53",
-    "Category": "মশলা",
-    "Subcategory": "",
-    "Brand": "",
-    "State": "",
-    "Tag": "",
-    "Description": "",
-    "Image": "https://iili.io/BLlrlrQ.jpg"
-  },
-  {
     "Name": "মরিচ গুঁড়া",
     "English_Name": "Chili Powder",
     "Weight": "1000,5000,10000,500,250,100",
@@ -1572,14 +1558,14 @@
     "English_Name": "Turmeric Powder",
     "Weight": "1000,5000,10000,500,250,100",
     "Measurement": "Solid",
-    "Price": "",
-    "Category": "",
+    "Price": "500, 2500, 5000, 253, 128, 53",
+    "Category": "মশলা",
     "Subcategory": "",
     "Brand": "",
     "State": "",
     "Tag": "",
     "Description": "",
-    "Image": ""
+    "Image": "https://iili.io/BLlrlrQ.jpg"
   },
   {
     "Name": "মরিচ গুঁড়া",
