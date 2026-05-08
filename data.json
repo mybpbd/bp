@@ -1878,7 +1878,7 @@
   {
     "Name": "ড্রাইড কিউই",
     "English_Name": "Dried Kiwi",
-    "Weight": "1000,5000",
+    "Weight": "1000,500",
     "Measurement": "Solid",
     "Price": "1570, 850",
     "Category": "খেজুর ও শুকনো ফল",
@@ -1892,7 +1892,7 @@
   {
     "Name": "ইন্ডিয়ান আমসত্ত্ব",
     "English_Name": "Indian Mango Bar",
-    "Weight": "1000,5000",
+    "Weight": "1000,500",
     "Measurement": "Solid",
     "Price": "1100, 557",
     "Category": "খেজুর ও শুকনো ফল",
