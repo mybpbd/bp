@@ -1372,20 +1372,6 @@
     "Image": "https://iili.io/BLlt4ZN.webp"
   },
   {
-    "Name": "ধনিয়া গুঁড়া",
-    "English_Name": "Coriander Powder",
-    "Weight": "1000,5000,10000,500,250,100",
-    "Measurement": "Solid",
-    "Price": "450, 2250, 4500, 228, 116, 48",
-    "Category": "মশলা",
-    "Subcategory": "",
-    "Brand": "",
-    "State": "",
-    "Tag": "",
-    "Description": "",
-    "Image": "https://iili.io/BLlPyZX.jpg"
-  },
-  {
     "Name": "কুমড়ার বড়ি",
     "English_Name": "Kumra Bori",
     "Weight": "1000,5000,10000,500,250,100",
@@ -1568,18 +1554,18 @@
     "Image": "https://iili.io/BLlsSX1.jpg"
   },
   {
-    "Name": "ধনে গুঁড়া",
+    "Name": "ধনিয়া গুঁড়া",
     "English_Name": "Coriander Powder",
     "Weight": "1000,5000,10000,500,250,100",
     "Measurement": "Solid",
-    "Price": "",
-    "Category": "",
+    "Price": "450, 2250, 4500, 228, 116, 48",
+    "Category": "মশলা",
     "Subcategory": "",
     "Brand": "",
     "State": "",
     "Tag": "",
     "Description": "",
-    "Image": ""
+    "Image": "https://iili.io/BLlPyZX.jpg"
   },
   {
     "Name": "গরম মশলা গুঁড়া",
