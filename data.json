@@ -1372,20 +1372,6 @@
     "Image": "https://iili.io/BLlt4ZN.webp"
   },
   {
-    "Name": "মরিচ গুঁড়া",
-    "English_Name": "Chili Powder",
-    "Weight": "1000,5000,10000,500,250,100",
-    "Measurement": "Solid",
-    "Price": "650, 3250, 6500, 329, 167, 69",
-    "Category": "মশলা",
-    "Subcategory": "",
-    "Brand": "",
-    "State": "",
-    "Tag": "",
-    "Description": "",
-    "Image": "https://iili.io/BLl63Vs.jpg"
-  },
-  {
     "Name": "ধনিয়া গুঁড়া",
     "English_Name": "Coriander Powder",
     "Weight": "1000,5000,10000,500,250,100",
@@ -1572,14 +1558,14 @@
     "English_Name": "Chili Powder",
     "Weight": "1000,5000,10000,500,250,100",
     "Measurement": "Solid",
-    "Price": "",
-    "Category": "",
+    "Price": "650, 3250, 6500, 329, 167, 69",
+    "Category": "মশলা",
     "Subcategory": "",
     "Brand": "",
     "State": "",
     "Tag": "",
     "Description": "",
-    "Image": ""
+    "Image": "https://iili.io/BLl63Vs.jpg"
   },
   {
     "Name": "জিরা গুঁড়া",
