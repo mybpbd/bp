@@ -1610,6 +1610,20 @@
     "Image": "https://iili.io/qhEtCs2.jpg"
   },
   {
+    "Name": "লবঙ্গ গুঁড়া",
+    "English_Name": "Clove Powder",
+    "Weight": "1000,5000,10000,500,250,100",
+    "Measurement": "Solid",
+    "Price": "2800, 14000, 28000, 1416, 718, 295",
+    "Category": "ভেষজ গুঁড়া ও সাপ্লিমেন্ট, মশলা",
+    "Subcategory": "",
+    "Brand": "",
+    "State": "",
+    "Tag": "",
+    "Description": "",
+    "Image": "https://iili.io/qw01eM7.jpg"
+  },
+  {
     "Name": "জিরা",
     "English_Name": "Cumin Seeds",
     "Weight": "1000,5000,10000,500,250,100",
@@ -1650,20 +1664,6 @@
     "Tag": "",
     "Description": "",
     "Image": "https://iili.io/BPebLNf.jpg"
-  },
-  {
-    "Name": "লবঙ্গ গুঁড়া",
-    "English_Name": "Clove Powder",
-    "Weight": "1000,5000,10000,500,250,100",
-    "Measurement": "Solid",
-    "Price": "2800, 14000, 28000, 1416, 718, 295",
-    "Category": "ভেষজ গুঁড়া ও সাপ্লিমেন্ট, মশলা",
-    "Subcategory": "",
-    "Brand": "",
-    "State": "",
-    "Tag": "",
-    "Description": "",
-    "Image": "https://iili.io/qw01eM7.jpg"
   },
   {
     "Name": "কালোজিরা",
