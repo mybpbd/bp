@@ -1974,20 +1974,6 @@
     "Image": "https://iili.io/BtkCBn9.jpg"
   },
   {
-    "Name": "মিক্সড ড্রাই ফ্রুটস",
-    "English_Name": "Mixed Dried Fruits",
-    "Weight": "1000,500",
-    "Measurement": "Solid",
-    "Price": "1990, 1007",
-    "Category": "খেজুর ও শুকনো ফল",
-    "Subcategory": "",
-    "Brand": "",
-    "State": "",
-    "Tag": "",
-    "Description": "",
-    "Image": "https://iili.io/BtkKHbt.jpg"
-  },
-  {
     "Name": "ড্রাইড পাপায়া",
     "English_Name": "Dried Papaya",
     "Weight": "1000,500",
@@ -2000,6 +1986,20 @@
     "Tag": "",
     "Description": "",
     "Image": "https://iili.io/BtkfH3x.jpg"
+  },
+  {
+    "Name": "মিক্সড ড্রাই ফ্রুটস",
+    "English_Name": "Mixed Dried Fruits",
+    "Weight": "1000,500",
+    "Measurement": "Solid",
+    "Price": "1990, 1007",
+    "Category": "খেজুর ও শুকনো ফল",
+    "Subcategory": "",
+    "Brand": "",
+    "State": "",
+    "Tag": "",
+    "Description": "",
+    "Image": "https://iili.io/BtkKHbt.jpg"
   },
   {
     "Name": "যবের আটা",
