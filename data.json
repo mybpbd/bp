@@ -1386,20 +1386,6 @@
     "Image": "https://iili.io/BLlPyZX.jpg"
   },
   {
-    "Name": "জিরা গুঁড়া",
-    "English_Name": "Cumin Powder",
-    "Weight": "1000,5000,10000,500,250,100",
-    "Measurement": "Solid",
-    "Price": "1000, 5000, 10000, 506, 256, 106",
-    "Category": "মশলা",
-    "Subcategory": "",
-    "Brand": "",
-    "State": "",
-    "Tag": "",
-    "Description": "",
-    "Image": "https://iili.io/BLlsSX1.jpg"
-  },
-  {
     "Name": "কুমড়ার বড়ি",
     "English_Name": "Kumra Bori",
     "Weight": "1000,5000,10000,500,250,100",
@@ -1572,14 +1558,14 @@
     "English_Name": "Cumin Powder",
     "Weight": "1000,5000,10000,500,250,100",
     "Measurement": "Solid",
-    "Price": "",
-    "Category": "",
+    "Price": "1000, 5000, 10000, 506, 256, 106",
+    "Category": "মশলা",
     "Subcategory": "",
     "Brand": "",
     "State": "",
     "Tag": "",
     "Description": "",
-    "Image": ""
+    "Image": "https://iili.io/BLlsSX1.jpg"
   },
   {
     "Name": "ধনে গুঁড়া",
