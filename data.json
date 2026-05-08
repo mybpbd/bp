@@ -1808,8 +1808,8 @@
   {
     "Name": "হিমালয়ান পিংক সল্ট",
     "English_Name": "Himalayan Pink Salt",
-    "Weight": "",
-    "Measurement": "",
+    "Weight": "1000,5000,10000,500,250,100",
+    "Measurement": "Solid",
     "Price": "800, 4000, 8000, 405, 205, 84",
     "Category": "সুপারফুড",
     "Subcategory": "",
