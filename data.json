@@ -1400,20 +1400,6 @@
     "Image": "https://iili.io/BLwhWRp.jpg"
   },
   {
-    "Name": "জাফরান (ইরানি)",
-    "English_Name": "Saffron (Iranian)",
-    "Weight": "10,50,100,5,2,1",
-    "Measurement": "Solid",
-    "Price": "3000, 15000, 30000, 1519, 632, 316",
-    "Category": "মশলা",
-    "Subcategory": "",
-    "Brand": "",
-    "State": "",
-    "Tag": "",
-    "Description": "",
-    "Image": "https://iili.io/BQYN2mF.png"
-  },
-  {
     "Name": "তালমাখনা",
     "English_Name": "Hydrophilia",
     "Weight": "1000,5000,10000,500,250,100",
@@ -1792,18 +1778,18 @@
     "Image": ""
   },
   {
-    "Name": "জাফরান",
-    "English_Name": "Saffron",
-    "Weight": "1000,5000,10000,500,250,100",
+    "Name": "জাফরান (ইরানি)",
+    "English_Name": "Saffron (Iranian)",
+    "Weight": "10,50,100,5,2,1",
     "Measurement": "Solid",
-    "Price": "",
-    "Category": "",
+    "Price": "3000, 15000, 30000, 1519, 632, 316",
+    "Category": "মশলা",
     "Subcategory": "",
     "Brand": "",
     "State": "",
     "Tag": "",
     "Description": "",
-    "Image": ""
+    "Image": "https://iili.io/BQYN2mF.png"
   },
   {
     "Name": "শুকনা মরিচ",
