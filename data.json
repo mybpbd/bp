@@ -1050,20 +1050,6 @@
     "Image": "https://iili.io/qk5GVS9.jpg"
   },
   {
-    "Name": "লবঙ্গ",
-    "English_Name": "Cloves",
-    "Weight": "1000,5000,10000,500,250,100",
-    "Measurement": "Solid",
-    "Price": "2000, 10000, 20000, 1011, 513, 211",
-    "Category": "\"আস্ত ভেষজ, মূল ও ছাল\", মশলা",
-    "Subcategory": "",
-    "Brand": "",
-    "State": "",
-    "Tag": "",
-    "Description": "",
-    "Image": "https://iili.io/qhEtCs2.jpg"
-  },
-  {
     "Name": "লবঙ্গ গুঁড়া",
     "English_Name": "Clove Powder",
     "Weight": "1000,5000,10000,500,250,100",
@@ -1628,14 +1614,14 @@
     "English_Name": "Cloves",
     "Weight": "1000,5000,10000,500,250,100",
     "Measurement": "Solid",
-    "Price": "",
-    "Category": "",
+    "Price": "2000, 10000, 20000, 1011, 513, 211",
+    "Category": "\"আস্ত ভেষজ, মূল ও ছাল\", মশলা",
     "Subcategory": "",
     "Brand": "",
     "State": "",
     "Tag": "",
     "Description": "",
-    "Image": ""
+    "Image": "https://iili.io/qhEtCs2.jpg"
   },
   {
     "Name": "জিরা",
