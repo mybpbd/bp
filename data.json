@@ -1162,6 +1162,20 @@
     "Image": "https://iili.io/B49wMxt.jpg"
   },
   {
+    "Name": "কোয়েকার ওটস",
+    "English_Name": "Quaker Oats",
+    "Weight": "800",
+    "Measurement": "Solid",
+    "Price": "680",
+    "Category": "সুপারফুড, \"চাল, ডাল ও শস্য\"",
+    "Subcategory": "",
+    "Brand": "",
+    "State": "",
+    "Tag": "",
+    "Description": "",
+    "Image": "https://iili.io/BtgSCFa.webp"
+  },
+  {
     "Name": "কাউহেড অর্গানিক বেবি রোল্ড ইনস্ট্যান্ট ওটস",
     "English_Name": "Cowhead Organic Baby Rolled Instant Oats",
     "Weight": "500",
@@ -2028,19 +2042,5 @@
     "Tag": "",
     "Description": "",
     "Image": "https://iili.io/BtkBKqg.jpg"
-  },
-  {
-    "Name": "কোয়েকার ওটস",
-    "English_Name": "Quaker Oats",
-    "Weight": "800",
-    "Measurement": "Solid",
-    "Price": "680",
-    "Category": "সুপারফুড, \"চাল, ডাল ও শস্য\"",
-    "Subcategory": "",
-    "Brand": "",
-    "State": "",
-    "Tag": "",
-    "Description": "",
-    "Image": "https://iili.io/BtgSCFa.webp"
   }
 ]
