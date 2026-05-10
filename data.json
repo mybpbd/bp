@@ -730,7 +730,7 @@
   {
     "Name": "সরিষার তেল (কাঠের ঘানি ভাঙ্গা)",
     "English_Name": "Mustard Oil (Wood-pressed/Cold-pressed)",
-    "Weight": "1000,5000,10000,500,250,100",
+    "Weight": "1000,5000,10000,500",
     "Measurement": "Liquid",
     "Price": "280, 1400, 2800, 142, 72, 30",
     "Category": "তেল",
@@ -744,7 +744,7 @@
   {
     "Name": "সরিষার তেল (মেশিনে ভাঙ্গা)",
     "English_Name": "Mustard Oil (Expeller Pressed)",
-    "Weight": "1000,5000,10000,500,250,100",
+    "Weight": "1000,5000,10000,500",
     "Measurement": "Liquid",
     "Price": "230, 1150, 2300, 116, 59, 25",
     "Category": "তেল",
@@ -758,7 +758,7 @@
   {
     "Name": "নারিকেল তেল (কাঠের ঘানি ভাঙ্গা)",
     "English_Name": "Coconut Oil (Wood-pressed/Cold-pressed)",
-    "Weight": "1000,5000,10000,500,250,100",
+    "Weight": "1000,5000,10000,500",
     "Measurement": "Liquid",
     "Price": "1550, 7750, 15500, 783, 396, 163",
     "Category": "তেল",
@@ -772,7 +772,7 @@
   {
     "Name": "নারিকেল তেল (মেশিনে ভাঙ্গা)",
     "English_Name": "Coconut Oil (Expeller Pressed)",
-    "Weight": "1000,5000,10000,500,250,100",
+    "Weight": "1000,5000,10000,500",
     "Measurement": "Liquid",
     "Price": "1100, 5500, 11000, 556, 281, 116",
     "Category": "তেল",
@@ -786,7 +786,7 @@
   {
     "Name": "কালোজিরার তেল",
     "English_Name": "Black Seed (Kalonji) Oil",
-    "Weight": "1000,5000,10000,500,250,100",
+    "Weight": "1000,5000,10000,500",
     "Measurement": "Liquid",
     "Price": "2950, 14750, 29500, 1490, 753, 310",
     "Category": "তেল",
@@ -800,7 +800,7 @@
   {
     "Name": "লাল চিনি",
     "English_Name": "Brown Sugar",
-    "Weight": "1000,5000,10000,500,250,100",
+    "Weight": "1000,5000,10000,500",
     "Measurement": "Solid",
     "Price": "180, 900, 1800, 91, 46, 19",
     "Category": "গুড় ও চিনি",
