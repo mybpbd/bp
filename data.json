@@ -674,7 +674,7 @@
   {
     "Name": "কালোজিরা ফুলের মধু",
     "English_Name": "Black Seed (Kalonji) Flower Honey",
-    "Weight": "1000,5000,10000,500,250,100",
+    "Weight": "1000,5000,10000,500",
     "Measurement": "Solid",
     "Price": "1250, 6250, 12500, 632, 319, 132",
     "Category": "মধু",
@@ -688,7 +688,7 @@
   {
     "Name": "সরিষা ফুলের মধু",
     "English_Name": "Mustard Flower Honey",
-    "Weight": "1000,5000,10000,500,250,100",
+    "Weight": "1000,5000,10000,500",
     "Measurement": "Solid",
     "Price": "450, 2250, 4500, 228, 115, 48",
     "Category": "মধু",
@@ -702,7 +702,7 @@
   {
     "Name": "লিচু ফুলের মধু",
     "English_Name": "Litchi Flower Honey",
-    "Weight": "1000,5000,10000,500,250,100",
+    "Weight": "1000,5000,10000,500",
     "Measurement": "Solid",
     "Price": "650, 3250, 6500, 329, 166, 69",
     "Category": "মধু",
@@ -716,7 +716,7 @@
   {
     "Name": "মিক্সড ফুলের মধু",
     "English_Name": "Mixed Flower Honey",
-    "Weight": "1000,5000,10000,500,250,100",
+    "Weight": "1000,5000,10000,500",
     "Measurement": "Solid",
     "Price": "1300, 6500, 13000, 657, 332, 137",
     "Category": "মধু",
