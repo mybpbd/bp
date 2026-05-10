@@ -2004,8 +2004,8 @@
   {
     "Name": "ড্রাইড ক্যারট",
     "English_Name": "Dried Carrot",
-    "Weight": "",
-    "Measurement": "",
+    "Weight": "1000,500",
+    "Measurement": "Solid",
     "Price": "",
     "Category": "",
     "Subcategory": "",
