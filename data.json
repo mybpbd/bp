@@ -2284,8 +2284,8 @@
   {
     "Name": "লাল চাল ভাজা",
     "English_Name": "Roasted Red Rice",
-    "Weight": "",
-    "Measurement": "",
+    "Weight": "1000,5000,10000,500,250,100",
+    "Measurement": "Solid",
     "Price": "",
     "Category": "",
     "Subcategory": "",
@@ -2298,8 +2298,8 @@
   {
     "Name": "লাল চালের ছাতু",
     "English_Name": "Roasted Red Rice Powder",
-    "Weight": "",
-    "Measurement": "",
+    "Weight": "1000,5000,10000,500,250,100",
+    "Measurement": "Solid",
     "Price": "",
     "Category": "বাদাম ও বীজ",
     "Subcategory": "",
