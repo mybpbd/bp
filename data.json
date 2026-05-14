@@ -2214,9 +2214,9 @@
   {
     "Name": "দেশী চিনা বাদাম (খোসা সহ - ভাজা)",
     "English_Name": "Roasted Local Peanuts (With Shell)",
-    "Weight": "",
-    "Measurement": "",
-    "Price": "",
+    "Weight": "1000,5000,10000,500,250,100",
+    "Measurement": "Solid",
+    "Price": "420, 2100, 4200, 213, 108, 45",
     "Category": "",
     "Subcategory": "",
     "Brand": "",
