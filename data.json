@@ -2270,8 +2270,8 @@
   {
     "Name": "গম ভাজা",
     "English_Name": "Roasted Wheat",
-    "Weight": "",
-    "Measurement": "",
+    "Weight": "1000,5000,10000,500,250,100",
+    "Measurement": "Solid",
     "Price": "",
     "Category": "",
     "Subcategory": "",
