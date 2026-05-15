@@ -2340,8 +2340,8 @@
   {
     "Name": "কিসমিস (পাকিস্তানি - সবুজ কিসমিস)",
     "English_Name": "Green Raisins (Pakistani)",
-    "Weight": "",
-    "Measurement": "",
+    "Weight": "1000,5000,10000,500,250,100",
+    "Measurement": "Solid",
     "Price": "",
     "Category": "",
     "Subcategory": "",
@@ -2354,8 +2354,8 @@
   {
     "Name": "সিডলেস গোল্ডেন কিসমিস (ইরানি)",
     "English_Name": "Iranian Golden Long Raisins",
-    "Weight": "",
-    "Measurement": "",
+    "Weight": "1000,5000,10000,500,250,100",
+    "Measurement": "Solid",
     "Price": "",
     "Category": "",
     "Subcategory": "",
@@ -2368,8 +2368,8 @@
   {
     "Name": "সিডলেস গোল্ডেন কিসমিস (আফগানি)",
     "English_Name": "Afghan Golden Long Raisins",
-    "Weight": "",
-    "Measurement": "",
+    "Weight": "1000,5000,10000,500,250,100",
+    "Measurement": "Solid",
     "Price": "",
     "Category": "",
     "Subcategory": "",
