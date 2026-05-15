@@ -2396,8 +2396,8 @@
   {
     "Name": "ভুট্টা",
     "English_Name": "Corn",
-    "Weight": "",
-    "Measurement": "",
+    "Weight": "1000,5000,10000,500,250,101",
+    "Measurement": "Solid",
     "Price": "",
     "Category": "",
     "Subcategory": "",
