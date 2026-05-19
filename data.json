@@ -2424,7 +2424,7 @@
   {
     "Name": "ইসুবগুল দানা",
     "English_Name": "Ispaghula",
-    "Weight": "1000,5000,10000,500,250,100",
+    "Weight": "450, 2250, 4500, 228, 115, 47",
     "Measurement": "Solid",
     "Price": "750, 3750, 7500, 380, 192, 79",
     "Category": "সুপারফুড",
@@ -2433,6 +2433,6 @@
     "State": "",
     "Tag": "",
     "Description": "",
-    "Image": ""
+    "Image": "https://iili.io/ByVwAe2.webp"
   }
 ]
