@@ -2412,7 +2412,7 @@
     "English_Name": "Coconut",
     "Weight": "1,2,3,4,5,10",
     "Measurement": "Piece",
-    "Price": "",
+    "Price": "100,200,300,400,500,1000",
     "Category": "",
     "Subcategory": "",
     "Brand": "",
