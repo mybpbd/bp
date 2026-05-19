@@ -2410,7 +2410,7 @@
   {
     "Name": "নারিকেল",
     "English_Name": "Coconut",
-    "Weight": "",
+    "Weight": "1,2,3,4,5,10",
     "Measurement": "Piece",
     "Price": "",
     "Category": "",
