@@ -812,34 +812,6 @@
     "Image": "https://iili.io/BKrVdtS.png"
   },
   {
-    "Name": "নারিকেল তেল (কাঠের ঘানি ভাঙ্গা)",
-    "English_Name": "Coconut Oil (Wood-pressed/Cold-pressed)",
-    "Weight": "1000,5000,10000,500",
-    "Measurement": "Liquid",
-    "Price": "1550, 7750, 15500, 783",
-    "Category": "তেল",
-    "Subcategory": "",
-    "Brand": "",
-    "State": "",
-    "Tag": "",
-    "Description": "",
-    "Image": "https://iili.io/Bfy8MSn.jpg"
-  },
-  {
-    "Name": "নারিকেল তেল (মেশিনে ভাঙ্গা)",
-    "English_Name": "Coconut Oil (Expeller Pressed)",
-    "Weight": "1000,5000,10000,500",
-    "Measurement": "Liquid",
-    "Price": "1100, 5500, 11000, 556",
-    "Category": "তেল",
-    "Subcategory": "",
-    "Brand": "",
-    "State": "",
-    "Tag": "",
-    "Description": "",
-    "Image": "https://iili.io/Bfyp89j.jpg"
-  },
-  {
     "Name": "কালোজিরার তেল",
     "English_Name": "Black Seed (Kalonji) Oil",
     "Weight": "1000,5000,10000,500",
