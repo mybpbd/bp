@@ -252,34 +252,6 @@
     "Image": "https://iili.io/qjtZDo7.jpg"
   },
   {
-    "Name": "তিল (কালো)",
-    "English_Name": "Black Sesame Seeds",
-    "Weight": "1000,5000,10000,500,250,100",
-    "Measurement": "Solid",
-    "Price": "350, 1750, 3500, 177, 90, 37",
-    "Category": "বাদাম ও বীজ",
-    "Subcategory": "",
-    "Brand": "",
-    "State": "",
-    "Tag": "",
-    "Description": "",
-    "Image": "https://iili.io/qkTDh0B.jpg"
-  },
-  {
-    "Name": "কালো তিল (ভাজা)",
-    "English_Name": "Roasted Black Sesame Seeds",
-    "Weight": "1000,5000,10000,500,250,100",
-    "Measurement": "Solid",
-    "Price": "550, 2750, 5500, 279, 141, 58",
-    "Category": "বাদাম ও বীজ",
-    "Subcategory": "",
-    "Brand": "",
-    "State": "",
-    "Tag": "",
-    "Description": "",
-    "Image": "https://iili.io/Byj0ZVs.webp"
-  },
-  {
     "Name": "তিসি",
     "English_Name": "Flaxseed",
     "Weight": "1000,5000,10000,500,250,100",
@@ -306,6 +278,34 @@
     "Tag": "",
     "Description": "",
     "Image": "https://iili.io/ByjGIMg.webp"
+  },
+  {
+    "Name": "তিল (কালো)",
+    "English_Name": "Black Sesame Seeds",
+    "Weight": "1000,5000,10000,500,250,100",
+    "Measurement": "Solid",
+    "Price": "350, 1750, 3500, 177, 90, 37",
+    "Category": "বাদাম ও বীজ",
+    "Subcategory": "",
+    "Brand": "",
+    "State": "",
+    "Tag": "",
+    "Description": "",
+    "Image": "https://iili.io/qkTDh0B.jpg"
+  },
+  {
+    "Name": "কালো তিল (ভাজা)",
+    "English_Name": "Roasted Black Sesame Seeds",
+    "Weight": "1000,5000,10000,500,250,100",
+    "Measurement": "Solid",
+    "Price": "550, 2750, 5500, 279, 141, 58",
+    "Category": "বাদাম ও বীজ",
+    "Subcategory": "",
+    "Brand": "",
+    "State": "",
+    "Tag": "",
+    "Description": "",
+    "Image": "https://iili.io/Byj0ZVs.webp"
   },
   {
     "Name": "তোকমা দানা",
