@@ -1428,20 +1428,6 @@
     "Image": "https://iili.io/ByP7i3N.jpg"
   },
   {
-    "Name": "এলাচ",
-    "English_Name": "Cardamom",
-    "Weight": "1000,5000,10000,500,250,100",
-    "Measurement": "Solid",
-    "Price": "5500, 27500, 55000, 2783, 1411, 579",
-    "Category": "মশলা",
-    "Subcategory": "",
-    "Brand": "",
-    "State": "",
-    "Tag": "",
-    "Description": "",
-    "Image": "https://iili.io/BtRV7St.jpg"
-  },
-  {
     "Name": "লবঙ্গ",
     "English_Name": "Cloves",
     "Weight": "1000,5000,10000,500,250,100",
@@ -2098,5 +2084,19 @@
     "Tag": "",
     "Description": "",
     "Image": "https://iili.io/Br8w6Xf.jpg"
+  },
+  {
+    "Name": "এলাচ",
+    "English_Name": "Cardamom",
+    "Weight": "1000,5000,10000,500,250,100",
+    "Measurement": "Solid",
+    "Price": "5500, 27500, 55000, 2783, 1411, 579",
+    "Category": "মশলা",
+    "Subcategory": "",
+    "Brand": "",
+    "State": "",
+    "Tag": "",
+    "Description": "",
+    "Image": "https://iili.io/BtRV7St.jpg"
   }
 ]
