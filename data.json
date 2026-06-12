@@ -2030,20 +2030,6 @@
     "Image": "https://iili.io/Cd7b4Ps.webp"
   },
   {
-    "Name": "পেস্তা বাদাম",
-    "English_Name": "Pistachio Nut",
-    "Weight": "1000,5000,10000,500,250,100",
-    "Measurement": "Solid",
-    "Price": "3990, 19950, 39900, 2035, 1030, 419",
-    "Category": "সুপারফুড, বাদাম ও বীজ",
-    "Subcategory": "",
-    "Brand": "",
-    "State": "",
-    "Tag": "",
-    "Description": "",
-    "Image": "https://iili.io/Br8w6Xf.jpg"
-  },
-  {
     "Name": "ব্রাজিল নাট",
     "English_Name": "Brazil Nuts",
     "Weight": "1000,5000,10000,500,250,100",
@@ -2098,5 +2084,19 @@
     "Tag": "",
     "Description": "",
     "Image": "https://iili.io/qXP96Lx.jpg"
+  },
+  {
+    "Name": "পেস্তা বাদাম",
+    "English_Name": "Pistachio Nut",
+    "Weight": "1000,5000,10000,500,250,100",
+    "Measurement": "Solid",
+    "Price": "3990, 19950, 39900, 2035, 1030, 419",
+    "Category": "সুপারফুড, বাদাম ও বীজ",
+    "Subcategory": "",
+    "Brand": "",
+    "State": "",
+    "Tag": "",
+    "Description": "",
+    "Image": "https://iili.io/Br8w6Xf.jpg"
   }
 ]
