@@ -518,20 +518,6 @@
     "Image": "https://iili.io/BreC9II.jpg"
   },
   {
-    "Name": "খেজুর (মরিয়ম - ইরানি)",
-    "English_Name": "Mariam/Mabroom Dates (Irani)",
-    "Weight": "1000,5000,10000,500",
-    "Measurement": "Solid",
-    "Price": "1190, 5950, 11900, 607",
-    "Category": "খেজুর ও শুকনো ফল",
-    "Subcategory": "",
-    "Brand": "",
-    "State": "",
-    "Tag": "",
-    "Description": "",
-    "Image": "https://iili.io/BbOXVl1.jpg"
-  },
-  {
     "Name": "খুরমা শুকনো খেজুর (কালো)",
     "English_Name": "Khurma Dry Dates (Black)",
     "Weight": "1000,5000,10000,500,250,100",
@@ -544,6 +530,20 @@
     "Tag": "",
     "Description": "",
     "Image": "https://iili.io/BLwmchB.jpg"
+  },
+  {
+    "Name": "খেজুর (মরিয়ম - ইরানি)",
+    "English_Name": "Mariam/Mabroom Dates (Irani)",
+    "Weight": "1000,5000,10000,500",
+    "Measurement": "Solid",
+    "Price": "1190, 5950, 11900, 607",
+    "Category": "খেজুর ও শুকনো ফল",
+    "Subcategory": "",
+    "Brand": "",
+    "State": "",
+    "Tag": "",
+    "Description": "",
+    "Image": "https://iili.io/BbOXVl1.jpg"
   },
   {
     "Name": "খেজুর (আজওয়া)",
