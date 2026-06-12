@@ -70,20 +70,6 @@
     "Image": "https://iili.io/BrOMbUv.jpg"
   },
   {
-    "Name": "কাজু বাদাম (ভিয়েতনাম)",
-    "English_Name": "Cashew Nuts (Vietnam)",
-    "Weight": "1000,5000,10000,500,250,100",
-    "Measurement": "Solid",
-    "Price": "1550, 7750, 15500, 783, 396, 163",
-    "Category": "বাদাম ও বীজ",
-    "Subcategory": "",
-    "Brand": "",
-    "State": "",
-    "Tag": "",
-    "Description": "",
-    "Image": "https://iili.io/BrOl2WJ.webp"
-  },
-  {
     "Name": "কাজু বাদাম (ভাজা)",
     "English_Name": "Roasted Cashew Nuts",
     "Weight": "1000,5000,10000,500,250,100",
@@ -96,6 +82,20 @@
     "Tag": "",
     "Description": "",
     "Image": "https://iili.io/qwV6wG4.jpg"
+  },
+  {
+    "Name": "কাজু বাদাম (ভিয়েতনাম)",
+    "English_Name": "Cashew Nuts (Vietnam)",
+    "Weight": "1000,5000,10000,500,250,100",
+    "Measurement": "Solid",
+    "Price": "1550, 7750, 15500, 783, 396, 163",
+    "Category": "বাদাম ও বীজ",
+    "Subcategory": "",
+    "Brand": "",
+    "State": "",
+    "Tag": "",
+    "Description": "",
+    "Image": "https://iili.io/BrOl2WJ.webp"
   },
   {
     "Name": "আখরোট",
