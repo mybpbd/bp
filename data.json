@@ -2060,8 +2060,8 @@
   {
     "Name": "ধনিয়া",
     "English_Name": "Coriander",
-    "Weight": "",
-    "Measurement": "",
+    "Weight": "1000,5000,10000,500,250,101",
+    "Measurement": "Solid",
     "Price": "",
     "Category": "",
     "Subcategory": "",
