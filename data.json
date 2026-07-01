@@ -870,9 +870,9 @@
   {
     "Name": "পিঙ্ক সল্ট (গুঁড়া)",
     "English_Name": "Pink Salt Powder",
-    "Weight": "",
-    "Measurement": "",
-    "Price": "",
+    "Weight": "1000,5000,10000,500,250,101",
+    "Measurement": "Solid",
+    "Price": "600, 3000, 6000, 303, 153, 64",
     "Category": "",
     "Subcategory": "",
     "Brand": "",
