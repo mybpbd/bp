@@ -1442,7 +1442,7 @@
     "Image": "https://iili.io/BtRhZzu.jpg"
   },
   {
-    "Name": "মেথি",
+    "Name": "মেথি গুঁড়া",
     "English_Name": "Fenugreek",
     "Weight": "1000,5000,10000,500,250,100",
     "Measurement": "Solid",
@@ -1468,20 +1468,6 @@
     "Tag": "Kalojira",
     "Description": "",
     "Image": "https://iili.io/qj4vXiG.jpg"
-  },
-  {
-    "Name": "মেথি গুঁড়া",
-    "English_Name": "Shahi Cumin (Caraway Seeds)",
-    "Weight": "1000,5000,10000,500,250,100",
-    "Measurement": "Solid",
-    "Price": "2500, 12500, 25000, 1265, 642, 263",
-    "Category": "মশলা",
-    "Subcategory": "",
-    "Brand": "",
-    "State": "",
-    "Tag": "Shahi Jira",
-    "Description": "",
-    "Image": "https://iili.io/BtRwHGf.png"
   },
   {
     "Name": "রসুন",
