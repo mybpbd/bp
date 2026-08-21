@@ -1443,31 +1443,17 @@
   },
   {
     "Name": "মেথি গুঁড়া",
-    "English_Name": "Fenugreek",
+    "English_Name": "Fenugreek Powder",
     "Weight": "1000,5000,10000,500,250,100",
     "Measurement": "Solid",
-    "Price": "350, 1750, 3500, 177, 90, 37",
-    "Category": "\"আস্ত ভেষজ, মূল ও ছাল\", মশলা",
+    "Price": "500, 2500, 5000, 253, 128, 53",
+    "Category": "সুপারফুড, মশলা",
     "Subcategory": "",
     "Brand": "",
     "State": "",
-    "Tag": "Methi",
+    "Tag": "Methi Gura",
     "Description": "",
-    "Image": "https://iili.io/BPebLNf.jpg"
-  },
-  {
-    "Name": "কালোজিরা",
-    "English_Name": "Black Cumin",
-    "Weight": "1000,5000,10000,500,250,100",
-    "Measurement": "Solid",
-    "Price": "800, 4000, 8000, 405, 205, 84",
-    "Category": "\"আস্ত ভেষজ, মূল ও ছাল\", মশলা",
-    "Subcategory": "",
-    "Brand": "",
-    "State": "",
-    "Tag": "Kalojira",
-    "Description": "",
-    "Image": "https://iili.io/qj4vXiG.jpg"
+    "Image": "https://iili.io/BLlt4ZN.webp"
   },
   {
     "Name": "রসুন",
