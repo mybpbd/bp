@@ -1470,7 +1470,7 @@
     "Image": "https://iili.io/qj4vXiG.jpg"
   },
   {
-    "Name": "শাহি জিরা",
+    "Name": "মেথি গুঁড়া",
     "English_Name": "Shahi Cumin (Caraway Seeds)",
     "Weight": "1000,5000,10000,500,250,100",
     "Measurement": "Solid",
@@ -1482,20 +1482,6 @@
     "Tag": "Shahi Jira",
     "Description": "",
     "Image": "https://iili.io/BtRwHGf.png"
-  },
-  {
-    "Name": "মেথি গুঁড়া",
-    "English_Name": "Onion",
-    "Weight": "1000,5000,10000,500,250,100",
-    "Measurement": "Solid",
-    "Price": "70, 350, 700, 35, 18, 7",
-    "Category": "মশলা",
-    "Subcategory": "",
-    "Brand": "",
-    "State": "",
-    "Tag": "Peyaj",
-    "Description": "",
-    "Image": "https://iili.io/BtapeHJ.jpg"
   },
   {
     "Name": "রসুন",
