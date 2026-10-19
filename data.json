@@ -884,7 +884,7 @@
   {
     "Name": "কাউন",
     "English_Name": "Millet",
-    "Weight": "1000,5000,10000,500,250,100",
+    "Weight": "1000,500,",
     "Measurement": "Solid",
     "Price": "300, 150",
     "Category": "\"চাল, ডাল ও শস্য\", সুপারফুড",
